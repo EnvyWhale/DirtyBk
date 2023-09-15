@@ -1,0 +1,994 @@
+{
+    "errorCode": 0,
+    "products": [
+        {
+            "id": "25303866",
+            "trace_id": "product_trace=0000000064f8877400cc57720000000001821b3a",
+            "stock": 1,
+            "total_review_count": "10986",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "中国诗词经典 唐诗三百首 宋词三百首 元曲三百首 诗经译注 论语 大学 中庸 套装共5册",
+            "subname": "",
+            "authorname": "滕一圣译注，张根云译注，等",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "68.80",
+            "dd_sale_price": "68.80",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "68.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.43.78.02.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "商务印书馆",
+            "publish_date": "2015-05-01",
+            "original_price": "86.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "诗词",
+                    "keys": [
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/60/10/25303866-1_h_7.jpg",
+            "product_url": "http://product.m.dangdang.com/25303866.html?t=1694009204",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "满额减",
+            "label_type_id": "promotion:20",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=1110",
+            "shop_name": "智慧熊（北京）教育科技有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25303866",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "每满100-50",
+                    "type": 1
+                },
+                {
+                    "name": "满1件6折",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29482246",
+            "trace_id": "product_trace=0000000064f8877400cc57720000000001c1dd06",
+            "stock": 1,
+            "total_review_count": "2588",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "诗词里的中国（共3册）（每个人的心中都有一首唐诗和宋词。给孩童关于世界最初的想象，赋予人生际遇最恰当的表达。）",
+            "subname": "不仅仅有岳飞《满江红》，更有海量诗词与历史，当当限量赠送有书APP会员月卡一张＋ 唐宋文人年表折页＋词牌透卡8款随机派送。 国民语文的启蒙，跨学科的中国史，开明盛世的记录，诗词的黄金时代。",
+            "authorname": "有书",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "59.70",
+            "dd_sale_price": "59.70",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "119.40",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.34.04.35.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "天地出版社",
+            "publish_date": "2023-01-01",
+            "original_price": "119.40",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "诗词",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/46/17/29482246-1_h_30.jpg",
+            "product_url": "http://product.m.dangdang.com/29482246.html?t=1694009204",
+            "pre_sale": "0",
+            "presale_start_date": "2022-11-18 14:31:05",
+            "presale_end_date": "2022-11-30 14:31:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=947",
+            "shop_name": "天地出版社",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29482246",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29299085",
+            "trace_id": "product_trace=0000000064f8877400cc57720000000001bf118d",
+            "stock": 1,
+            "total_review_count": "31755",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "诗词格律：插图版（语言学大家王力经典作品，诗词格律入门读物，于平仄之中窥见诗词之美。）",
+            "subname": "全新插图版，诗词鉴赏、创作普及经典之作。王力先生对古典文学、诗词研究的智慧结晶",
+            "authorname": "王力 著",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "12.00",
+            "dd_sale_price": "12.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "24.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.05.11.00.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "天津人民出版社",
+            "publish_date": "2021-07-01",
+            "original_price": "24.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "诗词",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "word": "诗词",
+                    "keys": [
+                        21,
+                        23
+                    ]
+                },
+                {
+                    "word": "诗词",
+                    "keys": [
+                        37,
+                        39
+                    ]
+                }
+            ],
+            "image_url": "https://img3m5.ddimg.cn/35/6/29299085-1_h_3.jpg",
+            "product_url": "http://product.m.dangdang.com/29299085.html?t=1694009204",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29299085",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "callback_url": "https://a.dangdang.com/mobile_cost.php?q=ffgjalwbdCwM8IVF/nJR1F94V8jSfpyd4aq3x4BmYD9VSSkX6gXJuBsPIhGOHpNot3jfLb56nT3eHTaa9Exa+KZuLcOQrFzvkr4NsUuD5PkK+0addv4gvqZw5q1u62tTYlEFx7BX/23k30mJom7JAvNzZb9k1uy7IaD4EZ7gi0akKMZNTMa6Vx7I6guXq2zo9wYtr0MAUMSE4N1eMmNLDFxoDyPGd3NIOUsPef4U+sRbF+CLPVxiXZG/9bs2GLMKJzXezgK7Uo/Ig5BK9/bpivons6d7Ao7k+/MNm4XZvWpGwpkTnqGDYUFUQTe6w/3qreiAAGlHyu0hu+O8OBnwKwF9MXeCCb7GORVI4F8i1A2Ym+sFdS2RUQ83QCKDCrK84Not2tVb3hx0Y8zp3M42RDErCwX6ZXbCrTqLx4FYYHN9IsBtQed5AEXvG9Dk1CnOe1EuNGvHEgiW4JjFC124bXlaQ==&platform=touch_2_0",
+            "name": "跟着诗词游中国 套装共4册",
+            "pid": 29363246,
+            "product_id": 29363246,
+            "id": 29363246,
+            "label_recommend": true,
+            "price": "51.20",
+            "market_price": "",
+            "is_phone_price": false,
+            "add_cart_button_enabled": 1,
+            "ad_id": 12144150,
+            "p_img": "https://img3m6.ddimg.cn/44/9/29363246-1_b_12.jpg",
+            "publisher": "石油工业出版社",
+            "authorname": "琬如",
+            "comments_count": 5106,
+            "high_common_rate": "100.0",
+            "stars": {
+                "full_star": 10,
+                "has_half_star": false
+            },
+            "ebook_price": "",
+            "shop_id": 1000000267,
+            "show_dangdangsale": 0,
+            "is_catalog_product": 1,
+            "image_url": "https://img3m6.ddimg.cn/44/9/29363246-1_h_12.jpg",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ],
+            "product_id2": 29363246,
+            "product_url": "http://product.m.dangdang.com/29363246.html?t=1694009204"
+        },
+        {
+            "callback_url": "https://a.dangdang.com/mobile_cost.php?q=fywW5/tZI7AFGjAAjnGFRGY7JVmKH+5yubbutwlrBfFV9Ryb6L9zuVNH2eK1+Vwy2lmpN38Wde6ACm/QzJKweKL8yx2D+j/Eh1ZKasYA+PO/h7NqdYGxfeuXqyAtGnFCWOneV6v4Lp4p1zXe8KyCHh5QwSCtUABqYg3M+eqnI4kI2mbBnkvuBYNVHgoExefywJYPwmAAaMibEt/KLGkEY36RjGhO0pQEbU32DZ9xOaqBNkqEhgAvb7Beop/JDQkGS18PI8Z3c0g5Sw95/hT6xFsX8vG5fFoYuc7Nb9TSv47Sl97OArtSj8iDkEr39umK+iezp3sCjuT78w2bhdm9akbCmROeoYNhQVRBN7rD/eqt6IAAaUfK7SG747w4GfArAX0xd4IJvsY5FUjgXyLUDZib6wV1LZFRDzdAIoMKsrzg2i3a1VveHHRjzOnczjZEMSsLBfpldsKtOovHgVhgc30iwG1B53kARe8b0OTUKc57URDumKd0KnJvHJsdRGfguSG&platform=touch",
+            "name": "2册 小学生必背古诗词75 80首 小学生必背文言文",
+            "pid": 1820134047,
+            "product_id": 1820134047,
+            "id": 1820134047,
+            "label_recommend": true,
+            "price": "29.80",
+            "market_price": "",
+            "is_phone_price": false,
+            "add_cart_button_enabled": 1,
+            "ad_id": 24725922,
+            "p_img": "https://img3m7.ddimg.cn/39/3/1820134047-1_b_5.jpg",
+            "publisher": "湖南教育出版社",
+            "authorname": "开心教育研究中心",
+            "comments_count": 1244,
+            "high_common_rate": "99.8",
+            "stars": {
+                "full_star": 9,
+                "has_half_star": false
+            },
+            "ebook_price": "",
+            "shop_id": 22352,
+            "show_dangdangsale": 0,
+            "is_catalog_product": 1,
+            "image_url": "https://img3m7.ddimg.cn/39/3/1820134047-1_h_5.jpg",
+            "product_tags": [
+                {
+                    "name": "开学季",
+                    "type": 1
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "券",
+                    "type": 1
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ],
+            "product_id2": 1820134047,
+            "product_url": "http://product.m.dangdang.com/1820134047.html?t=1694009204"
+        },
+        {
+            "id": "25193883",
+            "trace_id": "product_trace=0000000064f8877400cc57720000000001806d9b",
+            "stock": 1,
+            "total_review_count": "70655",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "古诗词课:叶嘉莹讲古诗词",
+            "subname": "（樊登读书会推荐，叶嘉莹先生全面讲解中国古诗词，涵盖中国*重要的诗人和诗歌，带读者走进古典诗歌美好、高洁的世界。）",
+            "authorname": "叶嘉莹",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "46.50",
+            "dd_sale_price": "46.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "46.50",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.05.12.00.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "生活.读书.新知三联书店",
+            "publish_date": "2018-01-01",
+            "original_price": "58.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "诗词",
+                    "keys": [
+                        1,
+                        3
+                    ]
+                },
+                {
+                    "word": "诗词",
+                    "keys": [
+                        10,
+                        12
+                    ]
+                }
+            ],
+            "image_url": "https://img3m3.ddimg.cn/66/28/25193883-1_h_15.jpg",
+            "product_url": "http://product.m.dangdang.com/25193883.html?t=1694009204",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "加价购",
+            "label_type_id": "promotion:28",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=256",
+            "shop_name": "生活 读书 新知三联书店有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25193883",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "id": "27942606",
+            "trace_id": "product_trace=0000000064f8877400cc57720000000001aa5ece",
+            "stock": 1,
+            "total_review_count": "322632",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "跟着诗词去旅行 图说天下 寻梦之旅",
+            "subname": "跟着唐诗去旅行 诗风词韵，装帧着流年的水色山光。与诗词相伴，共游湖光山色，静看岁月往来。",
+            "authorname": "郝娟菡",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "14.90",
+            "dd_sale_price": "14.90",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "14.90",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.12.41.00.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "四川人民出版社",
+            "publish_date": "2019-09-01",
+            "original_price": "29.90",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "诗词",
+                    "keys": [
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/54/21/27942606-1_h_1690857239.jpg",
+            "product_url": "http://product.m.dangdang.com/27942606.html?t=1694009204",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "N元场",
+            "label_type_id": "promotion:206",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=267",
+            "shop_name": "北京日知图书有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "27942606",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "49元5件",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29236132",
+            "trace_id": "product_trace=0000000064f8877400cc57720000000001be1ba4",
+            "stock": 1,
+            "total_review_count": "42006",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "康震古诗词81课 中国诗词大会经典咏流传康震老师 人民文学出版社",
+            "subname": "著名古典诗词专家，《中国诗词大会》《经典咏流传》文学顾问、点评嘉宾康震教授精讲从东汉三国至宋元明清81首国民古诗词，小到字句意象、文史典故，大到诗人身世、人生心境，旁征博引，会通古今。",
+            "authorname": "康震",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "57.80",
+            "dd_sale_price": "57.80",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "57.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.43.78.03.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "人民文学出版社",
+            "publish_date": "2021-04-01",
+            "original_price": "59.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "诗词",
+                    "keys": [
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "word": "诗词",
+                    "keys": [
+                        11,
+                        13
+                    ]
+                }
+            ],
+            "image_url": "https://img3m2.ddimg.cn/46/27/29236132-1_h_7.jpg",
+            "product_url": "http://product.m.dangdang.com/29236132.html?t=1694009204",
+            "pre_sale": "0",
+            "presale_start_date": "2022-06-16 15:22:33",
+            "presale_end_date": "2022-07-10 15:22:35",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "满额减",
+            "label_type_id": "promotion:20",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=280",
+            "shop_name": "人民文学出版社有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29236132",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "每满100-50",
+                    "type": 1
+                },
+                {
+                    "name": "满1件6折",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "25195961",
+            "trace_id": "product_trace=0000000064f8877400cc577200000000018075b9",
+            "stock": 1,
+            "total_review_count": "170755",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "一本书读完最美古诗词（上下册）",
+            "subname": "",
+            "authorname": "云葭，青黎 著",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "22.40",
+            "dd_sale_price": "22.40",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "43.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1900601477",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "11.78",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.05.12.00.00.00",
+            "high_common_rate": "99.7",
+            "is_publication": "1",
+            "publisher": "中国华侨出版社",
+            "publish_date": "2017-12-01",
+            "original_price": "49.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "诗词",
+                    "keys": [
+                        8,
+                        10
+                    ]
+                }
+            ],
+            "image_url": "https://img3m1.ddimg.cn/65/34/25195961-1_h_4.jpg",
+            "product_url": "http://product.m.dangdang.com/25195961.html?t=1694009204",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25195961",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "28516440",
+            "trace_id": "product_trace=0000000064f8877400cc57720000000001b32058",
+            "stock": 1,
+            "total_review_count": "5973",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "古诗词里的快意人生：瞧，这才是风流！",
+            "subname": "",
+            "authorname": "大老振",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "24.90",
+            "dd_sale_price": "24.90",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "51.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1901218005",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "15.6",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.05.12.00.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "现代出版社",
+            "publish_date": "2020-02-24",
+            "original_price": "52.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "诗词",
+                    "keys": [
+                        1,
+                        3
+                    ]
+                }
+            ],
+            "image_url": "https://img3m0.ddimg.cn/84/22/28516440-1_h_3.jpg",
+            "product_url": "http://product.m.dangdang.com/28516440.html?t=1694009204",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=400",
+            "shop_name": "现代出版社有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "28516440",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29549304",
+            "trace_id": "product_trace=0000000064f8877400cc57720000000001c2e2f8",
+            "stock": 1,
+            "total_review_count": "898",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "诗词里的中国（全7册）（极优美的诗词课，跨学科的中国史！给孩童关于世界最初的想象，赋予人生际遇最恰当的表达！）",
+            "subname": "礼盒送唐宋文人年表折页+李白传世书法真迹《上阳台》帖！80多位文坛翘楚×600余首优秀诗词作品×5000+文史知识点！",
+            "authorname": "有书 等",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "139.30",
+            "dd_sale_price": "139.30",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "278.60",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.05.12.00.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "天地出版社",
+            "publish_date": "2023-03-22",
+            "original_price": "278.60",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "诗词",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "word": "诗词",
+                    "keys": [
+                        16,
+                        18
+                    ]
+                }
+            ],
+            "image_url": "https://img3m4.ddimg.cn/81/31/29549304-1_h_1689413698.jpg",
+            "product_url": "http://product.m.dangdang.com/29549304.html?t=1694009204",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=947",
+            "shop_name": "天地出版社",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29549304",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "28522151",
+            "trace_id": "product_trace=0000000064f8877400cc57720000000001b336a7",
+            "stock": 1,
+            "total_review_count": "59726",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "跟着诗词游中国 追着四季去旅行 图说天下套装共2册",
+            "subname": "跟着唐诗去旅行 诗风词韵，装帧着流年的水色山光。与诗词相伴，共游湖光山色，静看岁月往来。光阴流转，四季更迭， 有些风景，只有在恰当的时间才能遇见。 别错过那春花，秋月，夏风，冬雪。",
+            "authorname": "郝娟菡 霍晨昕，王四新",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "18.70",
+            "dd_sale_price": "18.70",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "32.90",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.12.35.03.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "四川人民出版社",
+            "publish_date": "2020-03-17",
+            "original_price": "59.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "诗词",
+                    "keys": [
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "image_url": "https://img3m1.ddimg.cn/53/35/28522151-1_h_5.jpg",
+            "product_url": "http://product.m.dangdang.com/28522151.html?t=1694009204",
+            "pre_sale": "0",
+            "presale_start_date": "2023-03-27 15:28:02",
+            "presale_end_date": "2023-04-16 15:28:05",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=267",
+            "shop_name": "北京日知图书有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "28522151",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        }
+    ],
+    "support_shop_tmp": 0,
+    "correction_prompt": [],
+    "coupon_info": {
+        "curtime": 1694009204
+    },
+    "page": {
+        "total": "1050746",
+        "pagecount": "100",
+        "pageindex": "1",
+        "pagesize": "10",
+        "webtemplate": "PUB_TEMPLATE",
+        "showcase": "list",
+        "waterfall": 0
+    },
+    "keyword": "诗词",
+    "keywordStr": "诗词 共1050746个结果",
+    "hotKeywords": [
+        "词",
+        "诗词大全",
+        "诗词格律",
+        "诗词大会",
+        "诗",
+        "诗词里的中国",
+        "古诗词",
+        "中国诗词大会"
+    ],
+    "promotions": {
+        "promo_word": "查看全部大促商品",
+        "link_url": "http://touch.m.dangdang.com/topics.php?page_id=special_20230808_xspk",
+        "promo_id": "20160601",
+        "promo_word_highlight": "全部大促"
+    },
+    "shop_info": [],
+    "screening": [],
+    "shop_banner": [],
+    "none_result_enabled": 0,
+    "less_result_enabled": 0,
+    "permanent_id": null,
+    "banner": [],
+    "posters": []
+}

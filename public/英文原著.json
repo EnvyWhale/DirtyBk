@@ -1,0 +1,1009 @@
+{
+    "errorCode": 0,
+    "products": [
+        {
+            "id": "25215612",
+            "trace_id": "product_trace=0000000064f8864e0067dc66000000000180c27c",
+            "stock": 1,
+            "total_review_count": "45045",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "绿野仙踪（英文版，原名The Wonderful Wizard of Oz。原版底本，无删节精校）",
+            "subname": "英文原著阅读入门读物。以1900初版为底本，精校完整版，给你原汁原味的阅读体验",
+            "authorname": "(美)莱曼·弗兰克·鲍姆 著",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "8.60",
+            "dd_sale_price": "8.60",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "16.90",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1900786271",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "1.99",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.45.62.04.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "浙江教育出版社",
+            "publish_date": "2018-01-29",
+            "original_price": "19.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "英文",
+                    "keys": [
+                        5,
+                        7
+                    ]
+                }
+            ],
+            "image_url": "https://img3m2.ddimg.cn/15/1/25215612-1_h_6.jpg",
+            "product_url": "http://product.m.dangdang.com/25215612.html?t=1694008910",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=132",
+            "shop_name": "当当出版品牌旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25215612",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "23669231",
+            "trace_id": "product_trace=0000000064f8864e0067dc6600000000016929ef",
+            "stock": 1,
+            "total_review_count": "41441",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "消失的地平线 = Lost horizon : 英文（英文版原著，被改编为电影，风靡全世界）",
+            "subname": "一部小说创造神秘理想国“香格里拉”，探险藏区的传奇故事， 寻找你心中的日月",
+            "authorname": "(英)詹姆斯希尔顿 著",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "8.90",
+            "dd_sale_price": "8.90",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "16.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1900465406",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "1.99",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.45.62.04.00.00",
+            "high_common_rate": "99.4",
+            "is_publication": "1",
+            "publisher": "北京联合出版公司",
+            "publish_date": "2015-01-01",
+            "original_price": "19.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "英文",
+                    "keys": [
+                        24,
+                        26
+                    ]
+                },
+                {
+                    "word": "英文",
+                    "keys": [
+                        27,
+                        29
+                    ]
+                },
+                {
+                    "word": "原著",
+                    "keys": [
+                        30,
+                        32
+                    ]
+                }
+            ],
+            "image_url": "https://img3m1.ddimg.cn/14/35/23669231-1_h_4.jpg",
+            "product_url": "http://product.m.dangdang.com/23669231.html?t=1694008910",
+            "pre_sale": "0",
+            "presale_start_date": "2022-07-26 11:41:44",
+            "presale_end_date": "2022-08-10 23:59:59",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=132",
+            "shop_name": "当当出版品牌旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "23669231",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "23730156",
+            "trace_id": "product_trace=0000000064f8864e0067dc6600000000016a17ec",
+            "stock": 1,
+            "total_review_count": "77382",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "欧亨利短篇小说精选（英文版原著，“美国现代短篇小说之父”作品精选集）",
+            "subname": "世界三大短篇小说巨匠之一、《麦琪的礼物》作者欧·亨利英文小说精选集。",
+            "authorname": "(美)欧.亨利 著",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "13.40",
+            "dd_sale_price": "13.40",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "26.50",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1900465408",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "1.5",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.45.62.04.00.00",
+            "high_common_rate": "99.6",
+            "is_publication": "1",
+            "publisher": "北京联合出版公司",
+            "publish_date": "2015-06-01",
+            "original_price": "29.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "英文",
+                    "keys": [
+                        10,
+                        12
+                    ]
+                },
+                {
+                    "word": "原著",
+                    "keys": [
+                        13,
+                        15
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/54/21/23730156-1_h_7.jpg",
+            "product_url": "http://product.m.dangdang.com/23730156.html?t=1694008910",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=132",
+            "shop_name": "当当出版品牌旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "23730156",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "callback_url": "https://a.dangdang.com/mobile_cost.php?q=fup6C850pdIux6OyTssmrGIzKB4IX9gVJ6marj+90XH0UXeyyB2hBm2kpE/X2sEgWEzerdzlxAq3cZKXZs6QsQ0SIdtaIta0g3H2eddCLYGXQqq1FC9Rqxo3zKi/XUNrZFNU8wN1MY8+4OrcRZ1cPAm1L09BmmFnE116glxliaIxrqJRau0jVBChCli8v1CSsuCV/W4dPszytJTR3yW0iyxWU7F9rkhZ6kcDzAf1Dg7jI48jxndzSDlLD3n+FPrEWxfgiz1cYl2Rv/W7NhizCic13s4Cu1KPyIOQSvf26Yr6J7OnewKO5PvzDZuF2b1qRsKt3sZt1lCovmisLZBkx2QxJdBx+NAYdxhIxVtOEVJiuDF3ggm+xjkVSOBfItQNmJvrBXUtkVEPN0AigwqyvODaLdrVW94cdGPM6dzONkQxKwsF+mV2wq06i8eBWGBzfSLAbUHneQBF7xvQ5NQpzntRLjRrxxIIluCYxQtduG15Wk=&platform=touch_2_0",
+            "name": "来川英文原著分级足量阅读.四大名 家短篇小说",
+            "pid": 11317316708,
+            "product_id": 11317316708,
+            "id": 11317316708,
+            "label_recommend": true,
+            "price": "48.00",
+            "market_price": "",
+            "is_phone_price": false,
+            "add_cart_button_enabled": 1,
+            "ad_id": 34224024,
+            "p_img": "https://img3m8.ddimg.cn/38/20/11317316708-1_b_2.jpg",
+            "publisher": "东北师范大学出版社",
+            "authorname": "程来川",
+            "comments_count": 272,
+            "high_common_rate": "100.0",
+            "stars": {
+                "full_star": 10,
+                "has_half_star": false
+            },
+            "ebook_price": "",
+            "shop_id": 24578,
+            "show_dangdangsale": 0,
+            "is_catalog_product": 1,
+            "image_url": "https://img3m8.ddimg.cn/38/20/11317316708-1_h_2.jpg",
+            "product_tags": [],
+            "product_id2": 11317316708,
+            "product_url": "http://product.m.dangdang.com/11317316708.html?t=1694008910"
+        },
+        {
+            "callback_url": "https://a.dangdang.com/mobile_cost.php?q=fdt6C850pdIux6OyTssmrGIzAAYRwk799X6QOgFRbn68tSo9Mc34KFKgC9kc+8t/B9WerdzlxAq3cZKXZs6QsQ0SNnvM1CxJCDWMn1Q6dR5eofNqdYGxfeuXqyAtGnFCWOneV6v4Lp4p1zXe8KyCHh5Q9udm4G1YE4gliWZBCEBmaLleLm4Z3ca7kjKODg0AHezgKIxCEcsu8YdqpBlpY9wUgG9plGgZzWJE3OfkJbJRi67JAdYnf20SS0F1n7yC3kwtNmgCKtrKahcdR5ec7d0ywEHwTazKAaunA/OXTqdrBH4tGQhj427ZTPE0vhxnGQOJ6CMZIpJRpxfze0s3pRq8HnR7khCoaW68f0UjdW2APRedQJRx3wncOc13lvsdmRaAgYozMNw5yXPFXZ7wZMbA/4gHHu1Xdd25XmurJOEZYv+Bp854IR0PT8KOcFpyAhrjjOiLlmT3NDm23LZYwsfrVI1SQrPCDHjorKZ2TjXP34=&platform=touch",
+            "name": "来川英文原著分级足量阅读：经典童 话故事",
+            "pid": 11188098448,
+            "product_id": 11188098448,
+            "id": 11188098448,
+            "label_recommend": true,
+            "price": "68.00",
+            "market_price": "",
+            "is_phone_price": false,
+            "add_cart_button_enabled": 1,
+            "ad_id": 34223999,
+            "p_img": "https://img3m8.ddimg.cn/43/5/11188098448-1_b_4.jpg",
+            "publisher": "东北师范大学出版社",
+            "authorname": "程来川",
+            "comments_count": 68,
+            "high_common_rate": "100.0",
+            "stars": {
+                "full_star": 10,
+                "has_half_star": false
+            },
+            "ebook_price": "",
+            "shop_id": 24578,
+            "show_dangdangsale": 0,
+            "is_catalog_product": 1,
+            "image_url": "https://img3m8.ddimg.cn/43/5/11188098448-1_h_4.jpg",
+            "product_tags": [],
+            "product_id2": 11188098448,
+            "product_url": "http://product.m.dangdang.com/11188098448.html?t=1694008910"
+        },
+        {
+            "id": "23957000",
+            "trace_id": "product_trace=0000000064f8864e0067dc6600000000016d8e08",
+            "stock": 1,
+            "total_review_count": "29823",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "了不起的盖茨比（英文版。莱昂纳多主演同名电影原著小说，未删减全本）",
+            "subname": "影响了村上春树、海明威等作家的经典之作。",
+            "authorname": "弗司各特菲茨拉杰德",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "10.80",
+            "dd_sale_price": "10.80",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "18.70",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1900567314",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "1.99",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.45.62.04.00.00",
+            "high_common_rate": "99.8",
+            "is_publication": "1",
+            "publisher": "浙江教育出版社",
+            "publish_date": "2016-05-01",
+            "original_price": "22.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "英文",
+                    "keys": [
+                        8,
+                        10
+                    ]
+                },
+                {
+                    "word": "原著",
+                    "keys": [
+                        22,
+                        24
+                    ]
+                }
+            ],
+            "image_url": "https://img3m0.ddimg.cn/89/18/23957000-1_h_4.jpg",
+            "product_url": "http://product.m.dangdang.com/23957000.html?t=1694008910",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=132",
+            "shop_name": "当当出版品牌旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "23957000",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "25105738",
+            "trace_id": "product_trace=0000000064f8864e0067dc6600000000017f154a",
+            "stock": 1,
+            "total_review_count": "18205",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "【英汉对照注释版】新月集双语版 泰戈尔经典诗集 英文原著畅销小说世界文学中英文双语读物-振宇书虫",
+            "subname": "足本无删减，同步音频。中小学课外读物！泰戈尔的代表作，世界上杰出的诗集之一。",
+            "authorname": "(印) 拉宾德拉纳特·泰戈尔 著；郑振铎 译 振宇英语教学研究中心编",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "17.40",
+            "dd_sale_price": "17.40",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "17.40",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.45.62.03.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "海豚出版社",
+            "publish_date": "2017-05-01",
+            "original_price": "19.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "英文原著",
+                    "keys": [
+                        24,
+                        28
+                    ]
+                }
+            ],
+            "image_url": "https://img3m8.ddimg.cn/31/17/25105738-1_h_11.jpg",
+            "product_url": "http://product.m.dangdang.com/25105738.html?t=1694008910",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "满额减",
+            "label_type_id": "promotion:20",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=431",
+            "shop_name": "振宇锐智图书旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25105738",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "每满100-50",
+                    "type": 1
+                },
+                {
+                    "name": "满1件5折",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "25223267",
+            "trace_id": "product_trace=0000000064f8864e0067dc66000000000180e063",
+            "stock": 1,
+            "total_review_count": "7183",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "欧亨利短篇小说精选英文版原版原著 世界名著文学读物经典外国畅销小说 振宇书虫",
+            "subname": "足本无删减",
+            "authorname": "(英) 路易斯·卡罗尔",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "35.00",
+            "dd_sale_price": "35.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "35.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.45.62.04.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "海豚出版社",
+            "publish_date": "2017-12-01",
+            "original_price": "39.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "英文",
+                    "keys": [
+                        9,
+                        11
+                    ]
+                },
+                {
+                    "word": "原著",
+                    "keys": [
+                        14,
+                        16
+                    ]
+                }
+            ],
+            "image_url": "https://img3m7.ddimg.cn/47/34/25223267-1_h_16.jpg",
+            "product_url": "http://product.m.dangdang.com/25223267.html?t=1694008910",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "满额减",
+            "label_type_id": "promotion:20",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=431",
+            "shop_name": "振宇锐智图书旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25223267",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "每满100-50",
+                    "type": 1
+                },
+                {
+                    "name": "满1件5折",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29481561",
+            "trace_id": "product_trace=0000000064f8864e0067dc660000000001c1da59",
+            "stock": 1,
+            "total_review_count": "164",
+            "score": 0,
+            "stars": {
+                "full_star": 0,
+                "has_half_star": false
+            },
+            "name": "致敬经典 英文原版小说.疯狂动物城 Zootopia（精装绘图有声版）",
+            "subname": "无删减英文原著 * 精美手绘插画 * 全新升级精装版",
+            "authorname": "青橙英语",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "55.00",
+            "dd_sale_price": "55.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "55.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.45.62.04.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "华东理工大学出版社",
+            "publish_date": "2022-11-02",
+            "original_price": "55.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "英文",
+                    "keys": [
+                        5,
+                        7
+                    ]
+                }
+            ],
+            "image_url": "https://img3m1.ddimg.cn/54/35/29481561-1_h_6.jpg",
+            "product_url": "http://product.m.dangdang.com/29481561.html?t=1694008910",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "满额减",
+            "label_type_id": "promotion:20",
+            "is_catalog_product": "0",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29481561",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "每满100-50",
+                    "type": 1
+                },
+                {
+                    "name": "满1件5折",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "23398051",
+            "trace_id": "product_trace=0000000064f8864e0067dc6600000000016506a3",
+            "stock": 1,
+            "total_review_count": "974",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "Chinese Characteristics 中国人的气质 英文版原著",
+            "subname": "",
+            "authorname": "(美国)明恩溥",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "22.00",
+            "dd_sale_price": "22.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "22.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1900484335",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "8.65",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.45.62.04.00.00",
+            "high_common_rate": "99.8",
+            "is_publication": "1",
+            "publisher": "译林出版社",
+            "publish_date": "2014-02-01",
+            "original_price": "26.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "英文",
+                    "keys": [
+                        31,
+                        33
+                    ]
+                },
+                {
+                    "word": "原著",
+                    "keys": [
+                        34,
+                        36
+                    ]
+                }
+            ],
+            "image_url": "https://img3m1.ddimg.cn/94/28/23398051-1_h_2.jpg",
+            "product_url": "http://product.m.dangdang.com/23398051.html?t=1694008910",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "满额减",
+            "label_type_id": "promotion:20",
+            "is_catalog_product": "0",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "23398051",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "每满100-50",
+                    "type": 1
+                },
+                {
+                    "name": "满1件5折",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "25223266",
+            "trace_id": "product_trace=0000000064f8864e0067dc66000000000180e062",
+            "stock": 1,
+            "total_review_count": "20875",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "爱丽丝漫游奇境记英文版原版原著 世界经典文学名著 童话故事儿童文学小说 中小学课外读物推荐阅读",
+            "subname": "足本无删减，同步音频",
+            "authorname": "(英) 路易斯·卡罗尔",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "28.90",
+            "dd_sale_price": "28.90",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "28.90",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.45.62.04.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "海豚出版社",
+            "publish_date": "2017-12-01",
+            "original_price": "32.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "英文",
+                    "keys": [
+                        8,
+                        10
+                    ]
+                },
+                {
+                    "word": "原著",
+                    "keys": [
+                        13,
+                        15
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/46/33/25223266-1_h_18.jpg",
+            "product_url": "http://product.m.dangdang.com/25223266.html?t=1694008910",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "满额减",
+            "label_type_id": "promotion:20",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=431",
+            "shop_name": "振宇锐智图书旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25223266",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "每满100-50",
+                    "type": 1
+                },
+                {
+                    "name": "满1件5折",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "23914175",
+            "trace_id": "product_trace=0000000064f8864e0067dc6600000000016ce6bf",
+            "stock": 1,
+            "total_review_count": "1055",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "Sherlock Holmes His Last Bow 福尔摩斯探案全集之最后的致意 英文版原著",
+            "subname": "",
+            "authorname": "(英)阿瑟?柯南?道尔",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "17.20",
+            "dd_sale_price": "17.20",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "17.20",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1900614334",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "6.48",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.45.62.04.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "译林出版社",
+            "publish_date": "2016-03-01",
+            "original_price": "21.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "英文",
+                    "keys": [
+                        44,
+                        46
+                    ]
+                },
+                {
+                    "word": "原著",
+                    "keys": [
+                        47,
+                        49
+                    ]
+                }
+            ],
+            "image_url": "https://img3m5.ddimg.cn/32/2/23914175-1_h_5.jpg",
+            "product_url": "http://product.m.dangdang.com/23914175.html?t=1694008910",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "满额减",
+            "label_type_id": "promotion:20",
+            "is_catalog_product": "0",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "23914175",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "每满100-50",
+                    "type": 1
+                },
+                {
+                    "name": "满1件5折",
+                    "type": 1
+                }
+            ]
+        }
+    ],
+    "support_shop_tmp": 0,
+    "correction_prompt": [],
+    "coupon_info": {
+        "curtime": 1694008910
+    },
+    "page": {
+        "total": "38433",
+        "pagecount": "100",
+        "pageindex": "1",
+        "pagesize": "10",
+        "webtemplate": "PUB_TEMPLATE",
+        "showcase": "list",
+        "waterfall": 0
+    },
+    "keyword": "英文原著",
+    "keywordStr": "英文原著 共38433个结果",
+    "hotKeywords": [
+        "英文原版名著",
+        "英文原版小说",
+        "英文",
+        "英文原版",
+        "小王子英文原版",
+        "英语"
+    ],
+    "promotions": {
+        "promo_word": "查看全部大促商品",
+        "link_url": "http://touch.m.dangdang.com/topics.php?page_id=special_20230808_xspk",
+        "promo_id": "20160601",
+        "promo_word_highlight": "全部大促"
+    },
+    "shop_info": [],
+    "screening": [],
+    "shop_banner": [],
+    "none_result_enabled": 0,
+    "less_result_enabled": 0,
+    "permanent_id": null,
+    "banner": [],
+    "posters": []
+}

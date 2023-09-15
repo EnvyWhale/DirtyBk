@@ -1,0 +1,959 @@
+{
+    "errorCode": 0,
+    "products": [
+        {
+            "id": "29391474",
+            "trace_id": "product_trace=0000000064f8870a0066adb30000000001c07a72",
+            "stock": 1,
+            "total_review_count": "2072",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "亲密关系与情感依赖：认清依恋风格、走出情感困境、重整亲密关系",
+            "subname": "让亿万读者重启爱情的“答案之书”！《男人来自火星，女人来自金星》作者约翰·格雷、诺贝尔医学奖得主埃里克·坎德尔、美国精神分析协会主席雅各伯·阿洛鼎力推荐！",
+            "authorname": "(美)阿米尔·莱文 (美)蕾切尔·赫尔勒 著，李昀烨 译",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "27.80",
+            "dd_sale_price": "27.80",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "53.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1901296362",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "40",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.31.04.00.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "中国友谊出版公司",
+            "publish_date": "2022-04-27",
+            "original_price": "58.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "情感",
+                    "keys": [
+                        5,
+                        7
+                    ]
+                },
+                {
+                    "word": "情感",
+                    "keys": [
+                        19,
+                        21
+                    ]
+                }
+            ],
+            "image_url": "https://img3m4.ddimg.cn/57/6/29391474-1_h_10.jpg",
+            "product_url": "http://product.m.dangdang.com/29391474.html?t=1694009098",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=271",
+            "shop_name": "北京斯坦威图书有限责任公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29391474",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "25283486",
+            "trace_id": "product_trace=0000000064f8870a0066adb3000000000181cb9e",
+            "stock": 1,
+            "total_review_count": "24647",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "情感勒索",
+            "subname": "得到，畅销全球20年的心理学经典，提出“情感勒索”概念的心理学经典，台湾心理师周慕姿的启蒙书。终结以爱为名的操控游戏，摆脱一再退让的恶性循环。",
+            "authorname": "(美)苏珊·福沃德 后浪",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "22.50",
+            "dd_sale_price": "22.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "45.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1901071400",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "12.99",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.31.04.00.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "四川人民出版社",
+            "publish_date": "2018-10-01",
+            "original_price": "45.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "情感",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/74/17/25283486-1_h_13.jpg",
+            "product_url": "http://product.m.dangdang.com/25283486.html?t=1694009098",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=261",
+            "shop_name": "后浪出版咨询（北京）有限责任公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25283486",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29138460",
+            "trace_id": "product_trace=0000000064f8870a0066adb30000000001bc9e1c",
+            "stock": 1,
+            "total_review_count": "812",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "情感的演化：20世纪情绪心理学简史",
+            "subname": "*本从谱系视角理解情绪科学中的困境著作·哈佛大学专家力作·情绪科学*有影响力的人物分析",
+            "authorname": "(英)露丝·雷斯",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "28.70",
+            "dd_sale_price": "28.70",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "58.60",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.31.10.00.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "华中科技大学出版社",
+            "publish_date": "2020-10-15",
+            "original_price": "59.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "情感",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "image_url": "https://img3m0.ddimg.cn/87/35/29138460-1_h_3.jpg",
+            "product_url": "http://product.m.dangdang.com/29138460.html?t=1694009098",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29138460",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "callback_url": "https://a.dangdang.com/mobile_cost.php?q=for6C850pdIux6OyTssmrGIzDjkK8RQ00+4YS/mI4OlACF+smHPb3ij3jNNL76RkK4W/8VurpN/4TppLK/LSrCMb0o/oLFdxDwZ0vyRR+As3U3NqdYGxfeuXqyAtGnFCWOnbJ5qxZKExbghOTLnDnoJb+g9H1fZ88uWgyF1mO9gBrr4kzoLPaL+f8Mjhuc/C4kxZEk8s9qs1p842G2YCj7N0tgyxJEEqNN7LuTcoYNMWQYH2RoxZOQM7tEih/rIg9nPD5NvMyuqMTIeVg3VfYLdV+xZXw0qLRZQO4hG3plnBE53NQAfkGjP9kjQECIu5J041PyiyICowPlDeRly9G3/2m8ATqwvPPG/0OvaslG8LFLNL/RDbyZlrJPI7d4Jy+DpYZNhDOb74O61ai+hCPoYtNjSCE0GMq5Eq43Su8fwsdPGrO8B/azQhXWHFfgT+jSnUvWjDGRc7qllE6kCVVjhyi9XlbdE/8cZl7IaX1kWraQ=&platform=touch_2_0",
+            "name": "戒掉恋爱脑：战胜情感依赖 新书好价特惠",
+            "pid": 11488086640,
+            "product_id": 11488086640,
+            "id": 11488086640,
+            "label_recommend": true,
+            "price": "29.90",
+            "market_price": "",
+            "is_phone_price": false,
+            "add_cart_button_enabled": 1,
+            "ad_id": 45832901,
+            "p_img": "https://img3m0.ddimg.cn/19/4/11488086640-1_b_1.jpg",
+            "publisher": "人民邮电出版社",
+            "authorname": "[法]西尔维·田纳本（Sylvie Tenenbaum）",
+            "comments_count": 0,
+            "high_common_rate": "0.0",
+            "stars": {
+                "full_star": 0,
+                "has_half_star": false
+            },
+            "ebook_price": "",
+            "shop_id": 20734,
+            "show_dangdangsale": 0,
+            "is_catalog_product": 1,
+            "image_url": "https://img3m0.ddimg.cn/19/4/11488086640-1_h_1.jpg",
+            "product_tags": [
+                {
+                    "name": "券",
+                    "type": 1
+                }
+            ],
+            "product_id2": 11488086640,
+            "product_url": "http://product.m.dangdang.com/11488086640.html?t=1694009098"
+        },
+        {
+            "callback_url": "https://a.dangdang.com/mobile_cost.php?q=fgq6C850pdIux6OyTssmrGIzBMZZL3WNNb5wwTZZDcEWVpf+xyItrnHzJZPj5W3Rcwsrpq2tfGZ0sJxWnXk0NNjc+dOSQWJVZfv2lPI2ALt5vCq1FC9Rqxo3zKi/XUNrZFNnQWP0NFiIoL3zTxM1f47c/dzV/NT6gwYoW6Bu2DGn0W7laiRSpnXYD0YTK3Ku3eNwiw3EYhUae3dHXVvQQ0qlMbktCS8Qc+W/VjSEqZCg2LYMsSRBKjTey7k3KGDTFkGVucxqpRHxOKAvSCKleDFBg+TbzMrqjEyHlYN1X2C3VfsWV8NKi0WUDuIRt6ZZwROdzUAH5Boz/ZI0BAiLuSdONT8osiAqMD5Q3kZcvRt/9pvAE6sLzzxv9Dr2rJRvCxSzS/0Q28mZayTyO3eCcvg6WGTYQzm++DutWovoQj6GLTY0ghNBjKuRKuN0rvH8LHTxqzvAf2s0IV1hxX4E/o0p4SarNTrOb6KAVDcmn3UCYwvV5W3RP/HGZeyGl9ZFq2k&platform=touch",
+            "name": "正版 乐嘉性格色彩情感三部曲 性格 色彩恋爱单身宝典 性格色彩原理",
+            "pid": 11385637829,
+            "product_id": 11385637829,
+            "id": 11385637829,
+            "label_recommend": true,
+            "price": "139.00",
+            "market_price": "",
+            "is_phone_price": false,
+            "add_cart_button_enabled": 1,
+            "ad_id": 33662193,
+            "p_img": "https://img3m9.ddimg.cn/71/12/11385637829-1_b_1.jpg",
+            "publisher": "中国华侨出版社",
+            "authorname": "乐嘉，果麦文化 出品",
+            "comments_count": 27,
+            "high_common_rate": "100.0",
+            "stars": {
+                "full_star": 0,
+                "has_half_star": false
+            },
+            "ebook_price": "",
+            "shop_id": 16019,
+            "show_dangdangsale": 0,
+            "is_catalog_product": 1,
+            "image_url": "https://img3m9.ddimg.cn/71/12/11385637829-1_h_1.jpg",
+            "product_tags": [
+                {
+                    "name": "包邮",
+                    "type": 0
+                }
+            ],
+            "product_id2": 11385637829,
+            "product_url": "http://product.m.dangdang.com/11385637829.html?t=1694009098"
+        },
+        {
+            "id": "29329922",
+            "trace_id": "product_trace=0000000064f8870a0066adb30000000001bf8a02",
+            "stock": 1,
+            "total_review_count": "595",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "情感经济：人工智能、颠覆性变革与人类未来",
+            "subname": "人工智能克服“鲍莫尔病”，传统行业面临颠覆性变革，人类未来即将迎来情感经济时代",
+            "authorname": "(美) 罗兰·T.拉斯特，黄明蕙 著",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "32.60",
+            "dd_sale_price": "32.60",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "66.60",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.25.01.05.00.00",
+            "high_common_rate": "99.3",
+            "is_publication": "1",
+            "publisher": "中译出版社（原中国对外翻译出版公司）",
+            "publish_date": "2021-11-01",
+            "original_price": "68.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "情感",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "image_url": "https://img3m2.ddimg.cn/83/22/29329922-1_h_5.jpg",
+            "product_url": "http://product.m.dangdang.com/29329922.html?t=1694009098",
+            "pre_sale": "0",
+            "presale_start_date": "2023-04-22 19:51:07",
+            "presale_end_date": "2023-04-23 19:51:09",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=668",
+            "shop_name": "中译出版社旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29329922",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29268280",
+            "trace_id": "product_trace=0000000064f8870a0066adb30000000001be9938",
+            "stock": 1,
+            "total_review_count": "90871",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "男人这东西（全新纪念版）渡边淳一情感关系经典之作！让爱以正确的方式打开。教你如何在热恋之后，依旧保持恋爱的亲密和婚姻生活",
+            "subname": "畅销20年！全球发行量破500万册！从生理、心理全方位剖析男性，深入解读男性言行背后的潜台词，科学认知男女差异，解答女性疑惑，让女性更懂男性，为情感问题提供有效解决方案，让家庭关系更和谐美满。",
+            "authorname": "(日) 渡边淳一",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "22.50",
+            "dd_sale_price": "22.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "45.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1901198940",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "2.99",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.16.01.00.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "青岛出版社",
+            "publish_date": "2021-06-01",
+            "original_price": "45.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "情感",
+                    "keys": [
+                        16,
+                        18
+                    ]
+                }
+            ],
+            "image_url": "https://img3m0.ddimg.cn/19/22/29268280-1_h_5.jpg",
+            "product_url": "http://product.m.dangdang.com/29268280.html?t=1694009098",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29268280",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29469816",
+            "trace_id": "product_trace=0000000064f8870a0066adb30000000001c1ac78",
+            "stock": 1,
+            "total_review_count": "604",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "一本书看懂情感陷阱",
+            "subname": "《珍藏版》《畅销书》 一本人人都该拥有的防骗指南 识别情感操控者的真面目 避免被他们套路 识破PUA小伎俩 不再被情感勒索",
+            "authorname": "潇邦 著 华夏智库 出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "29.00",
+            "dd_sale_price": "29.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "58.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.16.01.00.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "民主与建设出版社",
+            "publish_date": "2022-10-01",
+            "original_price": "58.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "情感",
+                    "keys": [
+                        5,
+                        7
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/90/19/29469816-1_h_5.jpg",
+            "product_url": "http://product.m.dangdang.com/29469816.html?t=1694009098",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=988",
+            "shop_name": "华夏智库自营店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29469816",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29478831",
+            "trace_id": "product_trace=0000000064f8870a0066adb30000000001c1cfaf",
+            "stock": 1,
+            "total_review_count": "195",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "人类情感史",
+            "subname": "《柯克斯书评》2021年年度科学书籍 用一场贯穿古今、跨越东西的旅行，带你领略情感在人类社会中的核心地位 在人类的历史进程中，发挥更大作用的或许并非理性，而是情感",
+            "authorname": "(英)理查德·弗思戈德贝希尔",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "47.00",
+            "dd_sale_price": "47.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "96.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1901314497",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "73",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.31.03.01.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "中译出版社（原中国对外翻译出版公司）",
+            "publish_date": "2022-10-28",
+            "original_price": "98.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "情感",
+                    "keys": [
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "image_url": "https://img3m1.ddimg.cn/96/6/29478831-1_h_6.jpg",
+            "product_url": "http://product.m.dangdang.com/29478831.html?t=1694009098",
+            "pre_sale": "0",
+            "presale_start_date": "2022-10-28 16:59:33",
+            "presale_end_date": "2022-11-05 16:59:32",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=668",
+            "shop_name": "中译出版社旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29478831",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "24011636",
+            "trace_id": "product_trace=0000000064f8870a0066adb300000000016e6374",
+            "stock": 1,
+            "total_review_count": 0,
+            "score": 0,
+            "stars": {
+                "full_star": 0,
+                "has_half_star": false
+            },
+            "name": "情感与现代政治：卢梭政治哲学研究(政治哲学研究丛书)",
+            "subname": "从政治哲学视角探知情感何以对现代政治的理性路向做出重大扭转",
+            "authorname": "黄璇",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "22.00",
+            "dd_sale_price": "22.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "33.20",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.27.01.01.00.00",
+            "high_common_rate": "",
+            "is_publication": "1",
+            "publisher": "商务印书馆",
+            "publish_date": "2016-07-01",
+            "original_price": "46.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "情感",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/77/5/24011636-1_h_4.jpg",
+            "product_url": "http://product.m.dangdang.com/24011636.html?t=1694009098",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=255",
+            "shop_name": "商务印书馆",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "24011636",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29272886",
+            "trace_id": "product_trace=0000000064f8870a0066adb30000000001beab36",
+            "stock": 1,
+            "total_review_count": "1171",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "人类的情感：认知与历史（光启文景丛书，当今国际史坛情感史研究领域重磅力作）",
+            "subname": "情感是与生俱来的，还是一种社会建构？从拿破仑的情书到梦工厂的《怪物史莱克》，一次跨学科的情感研究之旅！",
+            "authorname": "(德)扬·普兰佩尔 著 马百亮 夏凡译",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "47.50",
+            "dd_sale_price": "47.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "95.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1901278335",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "48",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.36.03.01.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "上海人民出版社",
+            "publish_date": "2021-07-01",
+            "original_price": "95.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "情感",
+                    "keys": [
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "word": "情感",
+                    "keys": [
+                        25,
+                        27
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/71/3/29272886-1_h_5.jpg",
+            "product_url": "http://product.m.dangdang.com/29272886.html?t=1694009098",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=840",
+            "shop_name": "上海人民出版社有限责任公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29272886",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "25338730",
+            "trace_id": "product_trace=0000000064f8870a0066adb3000000000182a36a",
+            "stock": 1,
+            "total_review_count": "9851",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "高情商不尬聊(知名情感社区“小鹿情感”500余名心理咨询师倾情分享)",
+            "subname": "新老封面随机发货，上百例真实案例分类解读，50个绝佳聊天话题专业分解",
+            "authorname": "小鹿情感 吕梦龙 凤凰含章 出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "17.90",
+            "dd_sale_price": "17.90",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "35.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1901187794",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "10.43",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.21.06.01.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "江苏科学技术出版社",
+            "publish_date": "2018-09-06",
+            "original_price": "39.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "情感",
+                    "keys": [
+                        9,
+                        11
+                    ]
+                },
+                {
+                    "word": "情感",
+                    "keys": [
+                        16,
+                        18
+                    ]
+                }
+            ],
+            "image_url": "https://img3m0.ddimg.cn/76/20/25338730-1_h_4.jpg",
+            "product_url": "http://product.m.dangdang.com/25338730.html?t=1694009098",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=297",
+            "shop_name": "凤凰含章文化传媒（天津）有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25338730",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        }
+    ],
+    "support_shop_tmp": 0,
+    "correction_prompt": [],
+    "coupon_info": {
+        "curtime": 1694009098
+    },
+    "page": {
+        "total": "411527",
+        "pagecount": "100",
+        "pageindex": "1",
+        "pagesize": "10",
+        "webtemplate": "PUB_TEMPLATE",
+        "showcase": "list",
+        "waterfall": 0
+    },
+    "keyword": "情感",
+    "keywordStr": "情感 共411527个结果",
+    "hotKeywords": [],
+    "promotions": {
+        "promo_word": "查看全部大促商品",
+        "link_url": "http://touch.m.dangdang.com/topics.php?page_id=special_20230808_xspk",
+        "promo_id": "20160601",
+        "promo_word_highlight": "全部大促"
+    },
+    "shop_info": [],
+    "screening": [],
+    "shop_banner": [],
+    "none_result_enabled": 0,
+    "less_result_enabled": 0,
+    "permanent_id": null,
+    "banner": [],
+    "posters": []
+}

@@ -1,0 +1,1169 @@
+{
+    "errorCode": 0,
+    "products": [
+        {
+            "id": "29399072",
+            "trace_id": "product_trace=0000000064f885da00c885ff0000000001c09820",
+            "stock": 1,
+            "total_review_count": "85226",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "0-3岁早教：睡前故事（共10册）幼儿早教启蒙益智小红花",
+            "subname": "",
+            "authorname": "北京小红花图书工作室",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "14.70",
+            "dd_sale_price": "14.70",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "21.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.44.01.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "海豚出版社",
+            "publish_date": "2022-04-01",
+            "original_price": "30.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "0",
+                    "keys": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "word": "3岁",
+                    "keys": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "word": "启蒙",
+                    "keys": [
+                        21,
+                        23
+                    ]
+                }
+            ],
+            "image_url": "https://img3m2.ddimg.cn/32/19/29399072-1_h_8.jpg",
+            "product_url": "http://product.m.dangdang.com/29399072.html?t=1694008795",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=569",
+            "shop_name": "小红花官方旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29399072",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29521150",
+            "trace_id": "product_trace=0000000064f885da00c885ff0000000001c274fe",
+            "stock": 1,
+            "total_review_count": "1582",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "会说话的有声书 0-3岁婴幼儿早教点读认知宝宝学说话语言启蒙孩悦有声书",
+            "subname": "0-3岁宝宝识物，点读发声书、早教学知识",
+            "authorname": "羽奕",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "69.80",
+            "dd_sale_price": "69.80",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "105.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.44.01.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "广东大音音像出版社",
+            "publish_date": "2023-01-01",
+            "original_price": "168.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "书",
+                    "keys": [
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "word": "0",
+                    "keys": [
+                        8,
+                        9
+                    ]
+                },
+                {
+                    "word": "3岁",
+                    "keys": [
+                        10,
+                        12
+                    ]
+                },
+                {
+                    "word": "启蒙",
+                    "keys": [
+                        28,
+                        30
+                    ]
+                },
+                {
+                    "word": "书",
+                    "keys": [
+                        34,
+                        35
+                    ]
+                }
+            ],
+            "image_url": "https://img3m0.ddimg.cn/43/34/29521150-1_h_3.jpg",
+            "product_url": "http://product.m.dangdang.com/29521150.html?t=1694008795",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=1146",
+            "shop_name": "孩悦时光旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29521150",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "最值当",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "28984096",
+            "trace_id": "product_trace=0000000064f885da00c885ff0000000001ba4320",
+            "stock": 1,
+            "total_review_count": "5955",
+            "score": 4,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": false
+            },
+            "name": "认物大全认标志认水果动物形状颜色绘本儿童0-1-3-4-5-6-7-8周岁宝宝读物认识名车各国卡片看图识物启蒙认知婴幼儿",
+            "subname": "",
+            "authorname": "车艳青",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "11.50",
+            "dd_sale_price": "11.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "15.90",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.44.01.00.00",
+            "high_common_rate": "99.8",
+            "is_publication": "1",
+            "publisher": "应急管理出版社",
+            "publish_date": "2020-07-05",
+            "original_price": "39.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "0",
+                    "keys": [
+                        20,
+                        21
+                    ]
+                },
+                {
+                    "word": "3",
+                    "keys": [
+                        24,
+                        25
+                    ]
+                },
+                {
+                    "word": "岁",
+                    "keys": [
+                        36,
+                        37
+                    ]
+                },
+                {
+                    "word": "启蒙",
+                    "keys": [
+                        53,
+                        55
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/64/35/28984096-1_h_6.jpg",
+            "product_url": "http://product.m.dangdang.com/28984096.html?t=1694008795",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "28984096",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "callback_url": "https://a.dangdang.com/mobile_cost.php?q=fva6C850pdIux6OyTssmrGIzFHz9nnWEv7YwAugzg4yf7C3UXViWf8Hgi1XWFJR/Oh9qbSl/j0zwxvcPMG6XeTc+3Xb+qn4ruTYAVGJm1wC/37NqdYGxfeuXqyAtGnFCWOnbJ5qxZKExbghOTLnDnoJb5ErYHvnqVaYp6n9cvJeYZ9LIHZPVadltNaIBNiJy4E8/XO5Z9mqQqnjJvACoGSyFpxxTQ8/5Jpxfluq1gtSKQHRThZcZfAi5ETvwsaSMDdKePsOESdMHTDkZBALpbjEBBtIn1P8/PViRX/3K0Dq1pwgcGaiDHqbkeKK4RKxJC8uNx6GecJx3L4bHD25dcrRmoXfu1pr9SMTc9TTkt/zY3Hi1z0vUYCuSfYeMK2tBDxEd1oryw6Ro4n1BIu/GO936uV9p6/Q1nFq5ngoNwikuzYIYcDKoduCnc+oTeicskCbRTyAAgXspdQ3jgN/k6S9wHy3kAKHZZixjWQh8IM7g4DF97qTTMFYItSvbH1C6EfD&platform=touch_2_0",
+            "name": "宝宝学说话语言表达启蒙书早教书籍 0 3岁0岁宝宝早教1岁宝宝绘本1岁",
+            "pid": 11483163669,
+            "product_id": 11483163669,
+            "id": 11483163669,
+            "label_recommend": true,
+            "price": "38.00",
+            "market_price": "",
+            "is_phone_price": false,
+            "add_cart_button_enabled": 1,
+            "ad_id": 45237880,
+            "p_img": "https://img3m9.ddimg.cn/21/31/11483163669-1_b_1.jpg",
+            "publisher": "浙江教育出版社",
+            "authorname": "冯影",
+            "comments_count": 5,
+            "high_common_rate": "100.0",
+            "stars": {
+                "full_star": 0,
+                "has_half_star": false
+            },
+            "ebook_price": "",
+            "shop_id": 20169,
+            "show_dangdangsale": 0,
+            "is_catalog_product": 1,
+            "image_url": "https://img3m9.ddimg.cn/21/31/11483163669-1_h_1.jpg",
+            "product_tags": [
+                {
+                    "name": "开学季",
+                    "type": 1
+                },
+                {
+                    "name": "每满75-25",
+                    "type": 1
+                }
+            ],
+            "product_id2": 11483163669,
+            "product_url": "http://product.m.dangdang.com/11483163669.html?t=1694008795"
+        },
+        {
+            "callback_url": "https://a.dangdang.com/mobile_cost.php?q=fdd6C850pdIux6OyTssmrGIzLL8PJMdNB2HDm2SnjBDR9SpJNB9AyHXoorhyeCVQuvVDUbCuurWAwc0O5fbnU0ZE859n2nlTuOQHwVtYnwRZnjNqdYGxfeuXqyAtGnFCWOneV6v4Lp4p1zXe8KyCHh5Q5ErYHvnqVaYp6n9cvJeYZ9LIHZPVadltNaIBNiJy4E8/XO5Z9mqQqnjJvACoGSyFpxxTQ8/5Jpxfluq1gtSKQHRThZcZfAi5ETvwsaSMDdKwQa63tLzXa260+gRVFBC2xtIn1P8/PViRX/3K0Dq1pwgcGaiDHqbkeKK4RKxJC8uNx6GecJx3L4bHD25dcrRmoXfu1pr9SMTc9TTkt/zY3Hi1z0vUYCuSfYeMK2tBDxEd1oryw6Ro4n1BIu/GO936uV9p6/Q1nFq5ngoNwikuzYIYcDKoduCnc+oTeicskCbRTyAAgXspdQ3jgN/k6S9wHy3kAKHZZixjWQh8IM7g4DXGkPd6p12GBt3d3lyLHHo&platform=touch",
+            "name": "【时光学】幼儿全脑开发1200题上中 下全三册儿童益智早教书幼儿专注",
+            "pid": 11518851614,
+            "product_id": 11518851614,
+            "id": 11518851614,
+            "label_recommend": true,
+            "price": "18.50",
+            "market_price": "",
+            "is_phone_price": true,
+            "add_cart_button_enabled": 1,
+            "ad_id": 49788536,
+            "p_img": "https://img3m4.ddimg.cn/50/33/11518851614-1_b_1.jpg",
+            "publisher": "百花洲文艺出版社",
+            "authorname": "时光学教育研究中心",
+            "comments_count": 0,
+            "high_common_rate": "0.0",
+            "stars": {
+                "full_star": 0,
+                "has_half_star": false
+            },
+            "ebook_price": "",
+            "shop_id": 24294,
+            "show_dangdangsale": 0,
+            "is_catalog_product": 1,
+            "image_url": "https://img3m4.ddimg.cn/50/33/11518851614-1_h_1.jpg",
+            "product_tags": [
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "券",
+                    "type": 1
+                }
+            ],
+            "product_id2": 11518851614,
+            "product_url": "http://product.m.dangdang.com/11518851614.html?t=1694008795"
+        },
+        {
+            "id": "29330059",
+            "trace_id": "product_trace=0000000064f885da00c885ff0000000001bf8a8b",
+            "stock": 1,
+            "total_review_count": "2261",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "开口说话婴儿绘本（全4册）0-3岁宝宝语言启蒙绘本，全球热卖超200万册！日本教育与心理研究院权威审订！",
+            "subname": "通过语言与视觉的配合，激发宝宝脑功能发育，促进早期认知发展，是新手妈妈的启蒙读物，更是孩子的玩伴。（洛克博克出品）",
+            "authorname": "(日)柏原晃夫 文/图，林静 译",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "74.00",
+            "dd_sale_price": "74.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "148.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.44.01.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "福建少年儿童出版社",
+            "publish_date": "2021-11-01",
+            "original_price": "148.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "0",
+                    "keys": [
+                        13,
+                        14
+                    ]
+                },
+                {
+                    "word": "3岁",
+                    "keys": [
+                        15,
+                        17
+                    ]
+                },
+                {
+                    "word": "启蒙",
+                    "keys": [
+                        21,
+                        23
+                    ]
+                }
+            ],
+            "image_url": "https://img3m9.ddimg.cn/22/11/29330059-1_h_30.jpg",
+            "product_url": "http://product.m.dangdang.com/29330059.html?t=1694008795",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29330059",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29520887",
+            "trace_id": "product_trace=0000000064f885da00c885ff0000000001c273f7",
+            "stock": 1,
+            "total_review_count": "39",
+            "score": 4,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": false
+            },
+            "name": "0-3岁婴儿早教书 宝宝儿童启蒙撕不烂图书婴幼儿识图趣味启蒙认知立体卡片书 孩悦时光",
+            "subname": "",
+            "authorname": "羽奕",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "94.00",
+            "dd_sale_price": "94.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "150.40",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.44.01.00.00",
+            "high_common_rate": "97.4",
+            "is_publication": "1",
+            "publisher": "北京时代华文书局",
+            "publish_date": "2020-05-01",
+            "original_price": "188.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "0",
+                    "keys": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "word": "3岁",
+                    "keys": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "word": "书",
+                    "keys": [
+                        8,
+                        9
+                    ]
+                },
+                {
+                    "word": "启蒙",
+                    "keys": [
+                        14,
+                        16
+                    ]
+                },
+                {
+                    "word": "书",
+                    "keys": [
+                        20,
+                        21
+                    ]
+                },
+                {
+                    "word": "启蒙",
+                    "keys": [
+                        28,
+                        30
+                    ]
+                },
+                {
+                    "word": "书",
+                    "keys": [
+                        36,
+                        37
+                    ]
+                }
+            ],
+            "image_url": "https://img3m7.ddimg.cn/77/30/29520887-1_h_1.jpg",
+            "product_url": "http://product.m.dangdang.com/29520887.html?t=1694008795",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=1146",
+            "shop_name": "孩悦时光旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29520887",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "20927266",
+            "trace_id": "product_trace=0000000064f885da00c885ff00000000013f5322",
+            "stock": 1,
+            "total_review_count": "248011",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "歪歪兔行为习惯系列互动图画书（全10册）",
+            "subname": "精选10个0-3岁重要的行为习惯与生活能力培养主题，帮助宝宝养成好习惯，获得良好的生活能力。婴幼儿启蒙绘本，内含57个有趣的互动翻翻页，赠同名动画，配合观看，效果更显著。",
+            "authorname": "歪歪兔关键期早教项目组 编绘",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "45.00",
+            "dd_sale_price": "45.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "88.20",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.44.01.00.00",
+            "high_common_rate": "99.6",
+            "is_publication": "1",
+            "publisher": "海豚出版社",
+            "publish_date": "2015-08-18",
+            "original_price": "90.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "书",
+                    "keys": [
+                        13,
+                        14
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/52/29/20927266-1_h_10924.jpg",
+            "product_url": "http://product.m.dangdang.com/20927266.html?t=1694008795",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=156",
+            "shop_name": "歪歪兔童书馆",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "20927266",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29456065",
+            "trace_id": "product_trace=0000000064f885da00c885ff0000000001c176c1",
+            "stock": 1,
+            "total_review_count": "349",
+            "score": 0,
+            "stars": {
+                "full_star": 0,
+                "has_half_star": false
+            },
+            "name": "婴幼儿书籍 宝宝早教认知翻翻书（套装共4册）0一3岁启蒙益智3d立体机关婴儿撕不烂绘本",
+            "subname": "翻翻变变认真书，让孩子多维度认知世界的美",
+            "authorname": "蓝山",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "90.20",
+            "dd_sale_price": "90.20",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "90.20",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.43.77.02.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "湖南少年儿童出版社",
+            "publish_date": "2021-05-01",
+            "original_price": "99.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "书",
+                    "keys": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "word": "书",
+                    "keys": [
+                        14,
+                        15
+                    ]
+                },
+                {
+                    "word": "0",
+                    "keys": [
+                        22,
+                        23
+                    ]
+                },
+                {
+                    "word": "3岁启蒙",
+                    "keys": [
+                        24,
+                        28
+                    ]
+                }
+            ],
+            "image_url": "https://img3m5.ddimg.cn/1/32/29456065-1_h_2.jpg",
+            "product_url": "http://product.m.dangdang.com/29456065.html?t=1694008795",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "满额减",
+            "label_type_id": "promotion:20",
+            "is_catalog_product": "0",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29456065",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "每满100-50",
+                    "type": 1
+                },
+                {
+                    "name": "满1件6折",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29521857",
+            "trace_id": "product_trace=0000000064f885da00c885ff0000000001c277c1",
+            "stock": 1,
+            "total_review_count": "1679",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "妙趣洞洞书全6册婴儿早教 绘本0到3岁宝宝早教书启蒙认知益智图书撕不烂 0一1-2岁儿童书本适合一岁半两岁幼儿看的书奇妙",
+            "subname": "",
+            "authorname": "无",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "22.00",
+            "dd_sale_price": "22.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "72.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.48.02.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "黑龙江美术出版社",
+            "publish_date": "2019-05-01",
+            "original_price": "180.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "书",
+                    "keys": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "word": "0",
+                    "keys": [
+                        15,
+                        16
+                    ]
+                },
+                {
+                    "word": "3岁",
+                    "keys": [
+                        17,
+                        19
+                    ]
+                },
+                {
+                    "word": "书启蒙",
+                    "keys": [
+                        23,
+                        26
+                    ]
+                },
+                {
+                    "word": "书",
+                    "keys": [
+                        31,
+                        32
+                    ]
+                },
+                {
+                    "word": "0",
+                    "keys": [
+                        36,
+                        37
+                    ]
+                },
+                {
+                    "word": "书",
+                    "keys": [
+                        44,
+                        45
+                    ]
+                },
+                {
+                    "word": "书",
+                    "keys": [
+                        57,
+                        58
+                    ]
+                }
+            ],
+            "image_url": "https://img3m7.ddimg.cn/57/1/29521857-1_h_1.jpg",
+            "product_url": "http://product.m.dangdang.com/29521857.html?t=1694008795",
+            "pre_sale": "0",
+            "presale_start_date": "2023-05-10 10:02:33",
+            "presale_end_date": "2023-05-18 10:02:35",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29521857",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29242007",
+            "trace_id": "product_trace=0000000064f885da00c885ff0000000001be3297",
+            "stock": 1,
+            "total_review_count": "29019",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "创造力贴纸书全6册 幼儿益智早教贴纸0-3-4岁宝宝专注力脑力训练游戏书启蒙认知贴贴画开发创造全脑逻辑思维能力开发书 3",
+            "subname": "",
+            "authorname": "米艺文化",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "29.90",
+            "dd_sale_price": "29.90",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "49.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.46.17.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "广东旅游出版社",
+            "publish_date": "2021-01-01",
+            "original_price": "60.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "书",
+                    "keys": [
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "word": "0",
+                    "keys": [
+                        18,
+                        19
+                    ]
+                },
+                {
+                    "word": "3",
+                    "keys": [
+                        20,
+                        21
+                    ]
+                },
+                {
+                    "word": "岁",
+                    "keys": [
+                        23,
+                        24
+                    ]
+                },
+                {
+                    "word": "书启蒙",
+                    "keys": [
+                        35,
+                        38
+                    ]
+                },
+                {
+                    "word": "书",
+                    "keys": [
+                        57,
+                        58
+                    ]
+                },
+                {
+                    "word": "3",
+                    "keys": [
+                        59,
+                        60
+                    ]
+                }
+            ],
+            "image_url": "https://img3m7.ddimg.cn/80/19/29242007-1_h_9.jpg",
+            "product_url": "http://product.m.dangdang.com/29242007.html?t=1694008795",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=1064",
+            "shop_name": "溟瀛文化当当自营店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29242007",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29399083",
+            "trace_id": "product_trace=0000000064f885da00c885ff0000000001c0982b",
+            "stock": 1,
+            "total_review_count": "23538",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "0-3岁早教：婴儿童话（共10册）幼儿早教小故事启蒙益智小红花",
+            "subname": "全套精选10则经典有趣的好故事，配以生动的文字、形象的插图，灵活的装订方式，轻巧的小开本设计，非常适合宝宝拿在手中自主阅读。",
+            "authorname": "北京小红花图书工作室",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "14.70",
+            "dd_sale_price": "14.70",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "21.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.44.01.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "海豚出版社",
+            "publish_date": "2022-04-01",
+            "original_price": "30.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "0",
+                    "keys": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "word": "3岁",
+                    "keys": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "word": "启蒙",
+                    "keys": [
+                        24,
+                        26
+                    ]
+                }
+            ],
+            "image_url": "https://img3m3.ddimg.cn/43/30/29399083-1_h_13.jpg",
+            "product_url": "http://product.m.dangdang.com/29399083.html?t=1694008795",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=569",
+            "shop_name": "小红花官方旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29399083",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        }
+    ],
+    "support_shop_tmp": 0,
+    "correction_prompt": [],
+    "coupon_info": {
+        "curtime": 1694008795
+    },
+    "page": {
+        "total": "408081",
+        "pagecount": "100",
+        "pageindex": "1",
+        "pagesize": "10",
+        "webtemplate": "PUB_TEMPLATE",
+        "showcase": "list",
+        "waterfall": 0
+    },
+    "keyword": "启蒙书0 3岁",
+    "keywordStr": "启蒙书0 3岁 共408081个结果",
+    "hotKeywords": [],
+    "promotions": {
+        "promo_word": "查看全部大促商品",
+        "link_url": "http://touch.m.dangdang.com/topics.php?page_id=special_20230808_xspk",
+        "promo_id": "20160601",
+        "promo_word_highlight": "全部大促"
+    },
+    "shop_info": [],
+    "screening": [],
+    "shop_banner": [],
+    "none_result_enabled": 0,
+    "less_result_enabled": 0,
+    "permanent_id": null,
+    "banner": [],
+    "posters": []
+}

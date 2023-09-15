@@ -1,0 +1,596 @@
+{
+  "booklist": [
+    {
+      "id": "29368765",
+      "name": "奇趣地理小百科（精装大开本纸板书 生僻字注音 全彩插图）【地理知识科普】为10-14岁儿童打造课外读物，卡通绘本形式揭秘",
+      "subname": "2022新版中国地理百科全书 中小学生三四五六年级课外奇趣儿童科普书籍 7-9-10-12岁小学生校园课外书籍国家历史课本地理知识丛书",
+      "authorname": "明洋卓安",
+      "price": "49.00",
+      "publisher": "科学普及出版社",
+      "comments_count": 1588,
+      "publish_date": "2022-01-01",
+      "dat": 20220101,
+      "original_price": "79.00",
+      "type": 1,
+      "typename": "课外读物",
+      "activestate": true,
+      "image_url": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg"
+    },
+    {
+      "id": "295678959",
+      "name": "大象巴巴套装全4册彩图注音版小学生一二年级儿童课外读物",
+      "subname": "2022新版中国地理百科全书 中小学生三四五六年级课外奇趣儿童科普书籍 7-9-10-12岁小学生校园课外书籍国家历史课本地理知识丛书",
+      "authorname": "(法)让·德·布吕诺夫著",
+      "price": "27.90",
+      "publisher": "应急管理出版社",
+      "comments_count": 158,
+      "publish_date": "2023-03-01",
+      "dat": 20230301,
+      "original_price": "69.80",
+      "type": 1,
+      "activestate": false,
+      "typename": "课外读物",
+      "image_url": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg"
+    },
+    {
+      "id": "29334533",
+      "name": "小学英语绘本故事全8册 启蒙智慧+快乐成长创作绘本 小学生三四五六年级启蒙英语故事书课外读物 有声伴读中英文绘本阅读入门",
+      "subname": "中英双语，扫码阅读，温情的美德故事",
+      "authorname": "长江出版社",
+      "price": "75.80",
+      "publisher": "长江出版社",
+      "publish_date": "2016-04-01",
+      "dat": 20160401,
+      "original_price": "144.00",
+      "type": 1,
+      "activestate": true,
+      "typename": "课外读物",
+      "image_url": "https://img3m3.ddimg.cn/41/8/29334533-1_h_1690705808.jpg",
+      "comments_count": 188
+    },
+    {
+      "id": "11444846128",
+      "name": "红星照耀中国 昆虫记 八年级上册课 外阅读初中生读物初二课外书目名",
+      "subname": "2022新版中国地理百科全书 中小学生三四五六年级课外奇趣儿童科普书籍 7-9-10-12岁小学生校园课外书籍国家历史课本地理知识丛书",
+      "authorname": "法布尔",
+      "price": "39.80",
+      "publisher": "人民文学出版社",
+      "comments_count": 1588,
+      "publish_date": "2022-01-01",
+      "dat": 20220101,
+      "original_price": "99.6",
+      "type": 1,
+      "activestate": false,
+      "typename": "课外读物",
+      "image_url": "https://img3m8.ddimg.cn/34/23/11444846128-1_h_1.jpg"
+    },
+    {
+      "id": "11441559295",
+      "name": "昆虫记 红星照耀中国 八年级上册课 外阅读初中生读物初二课外书目名",
+      "subname": "昆虫记 红星照耀中国 八年级上册课 外阅读初中生读物初二课外书目名",
+      "authorname": "法布尔",
+      "price": "39.80",
+      "type": 1,
+      "typename": "课外读物",
+      "image_url": "https://img3m5.ddimg.cn/1/11/11441559295-1_b_1.jpg",
+      "publisher": "人民文学出版社",
+      "comments_count": 272,
+      "activestate": true,
+      "publish_date": "2022-01-01",
+      "dat": 20220101
+    },
+    {
+      "id": "293687801",
+      "name": "奇趣动物王国（精装大开本纸板书 生僻字注音 全彩插图）【揭秘动物科普百科绘本】9-12岁学生课外读物【科学认知书籍】",
+      "subname": "8-12岁儿童探索奇趣动物王国启蒙书籍带有扫码听书情景互动读物书 儿童科普动物知识绘本",
+      "authorname": "明洋卓安",
+      "price": "33.20",
+      "publisher": "科学普及出版社",
+      "publish_date": "2023-07-09",
+      "dat": 20230709,
+      "original_price": "79.00",
+      "comments_count": 18,
+      "type": 1,
+      "activestate": true,
+      "typename": "课外读物",
+      "image_url": "https://img3m0.ddimg.cn/34/30/29368780-1_h_2.jpg"
+    },
+    {
+      "id": "28990164",
+      "name": "快乐读书吧二年级下册：愿望的实现+金波作品选+神笔马良+七色花(共4册)小学生语文教材推荐课外读物",
+      "subname": "小学语文教材指定阅读全彩注音 小学生课外经典书目",
+      "authorname": "金波，洪汛涛等著 斑马爱读书主编",
+      "price": "21.90",
+      "publisher": "云南出版集团公司 晨光出版社",
+      "publish_date": "2020-03-01",
+      "dat": 20200301,
+      "comments_count": 348,
+      "original_price": "49.00",
+      "type": 1,
+      "activestate": true,
+      "typename": "课外读物",
+      "image_url": "https://img3m4.ddimg.cn/93/35/28990164-1_h_19.jpg"
+    },
+    {
+      "id": "27867684",
+      "name": "伊索寓言全集（精装版）【青少年读物】【经典儿童文学】适合10-14岁孩子的课外读物【名家名译】",
+      "subname": "世界文学名著 读不同的故事，感受不一样的明天！",
+      "authorname": "(古希腊) 伊索",
+      "price": "20.00",
+      "publisher": "中国文联出版社",
+      "publish_date": "2015-11-01",
+      "dat": 20151101,
+      "original_price": "24.00",
+      "comments_count": 588,
+      "type": 1,
+      "activestate": true,
+      "typename": "课外读物",
+      "image_url": "https://img3m4.ddimg.cn/75/24/27867684-1_h_9.jpg"
+    }
+  ],
+  "gridlist": [
+    {
+      "id": 1,
+      "img": "http://img63.ddimg.cn/ddimg/2229/tushu-1620826735.png",
+      "content": "课外读物"
+    },
+    {
+      "id": 2,
+      "img": "http://img63.ddimg.cn/ddimg/2229/tongshu-1620826775.png",
+      "content": "成长"
+    },
+    {
+      "id": 3,
+      "img": "https://img60.ddimg.cn/2021/11/8/2021110816081069564.png",
+      "content": "英文原著"
+    },
+    {
+      "id": 4,
+      "img": "http://img60.ddimg.cn/ddimg/2229/ertongjiexin-1623317699.png",
+      "content": "启蒙"
+    },
+    {
+      "id": 5,
+      "img": "http://img62.ddimg.cn/ddimg/2229/dujia-1620827022.png",
+      "content": "经典名著"
+    },
+    {
+      "id": 6,
+      "img": "http://img62.ddimg.cn/ddimg/2229/jiaofu-1620827008.png",
+      "content": "情感"
+    },
+    {
+      "id": 7,
+      "img": "http://img60.ddimg.cn/ddimg/2229/wenxue-1620827088.png",
+      "content": "经典小说"
+    },
+    {
+      "id": 8,
+      "img": "http://img60.ddimg.cn/ddimg/2229/wenxue-1620827088.png",
+      "content": "诗词"
+    }
+  ],
+  "bookdetaillist": [
+    {
+      "id": "29368765",
+      "name": "奇趣地理小百科（精装大开本纸板书 生僻字注音 全彩插图）【地理知识科普】为10-14岁儿童打造课外读物，卡通绘本形式揭秘",
+      "subname": "2022新版中国地理百科全书 中小学生三四五六年级课外奇趣儿童科普书籍 7-9-10-12岁小学生校园课外书籍国家历史课本地理知识丛书",
+      "authorname": "明洋卓安",
+      "price": "49.00",
+      "publisher": "科学普及出版社",
+      "comments_count": 1588,
+      "publish_date": "2022-01-01",
+      "dat": 20220101,
+      "original_price": "79.00",
+      "type": 1,
+      "typename": "课外读物",
+      "activestate": true,
+      "image_url": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg"
+    },
+    {
+      "id": "295678959",
+      "name": "大象巴巴套装全4册彩图注音版小学生一二年级儿童课外读物",
+      "subname": "2022新版中国地理百科全书 中小学生三四五六年级课外奇趣儿童科普书籍 7-9-10-12岁小学生校园课外书籍国家历史课本地理知识丛书",
+      "authorname": "(法)让·德·布吕诺夫著",
+      "price": "27.90",
+      "publisher": "应急管理出版社",
+      "comments_count": 158,
+      "publish_date": "2023-03-01",
+      "dat": 20230301,
+      "original_price": "69.80",
+      "type": 1,
+      "activestate": false,
+      "typename": "课外读物",
+      "image_url": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg"
+    },
+    {
+      "id": "29334533",
+      "name": "小学英语绘本故事全8册 启蒙智慧+快乐成长创作绘本 小学生三四五六年级启蒙英语故事书课外读物 有声伴读中英文绘本阅读入门",
+      "subname": "中英双语，扫码阅读，温情的美德故事",
+      "authorname": "长江出版社",
+      "price": "75.80",
+      "publisher": "长江出版社",
+      "publish_date": "2016-04-01",
+      "dat": 20160401,
+      "original_price": "144.00",
+      "type": 1,
+      "activestate": true,
+      "typename": "课外读物",
+      "image_url": "https://img3m3.ddimg.cn/41/8/29334533-1_h_1690705808.jpg",
+      "comments_count": 188
+    },
+    {
+      "id": "11444846128",
+      "name": "红星照耀中国 昆虫记 八年级上册课 外阅读初中生读物初二课外书目名",
+      "subname": "2022新版中国地理百科全书 中小学生三四五六年级课外奇趣儿童科普书籍 7-9-10-12岁小学生校园课外书籍国家历史课本地理知识丛书",
+      "authorname": "法布尔",
+      "price": "39.80",
+      "publisher": "人民文学出版社",
+      "comments_count": 1588,
+      "publish_date": "2022-01-01",
+      "dat": 20220101,
+      "original_price": "99.6",
+      "type": 1,
+      "activestate": false,
+      "typename": "课外读物",
+      "image_url": "https://img3m8.ddimg.cn/34/23/11444846128-1_h_1.jpg"
+    },
+    {
+      "id": "11441559295",
+      "name": "昆虫记 红星照耀中国 八年级上册课 外阅读初中生读物初二课外书目名",
+      "subname": "昆虫记 红星照耀中国 八年级上册课 外阅读初中生读物初二课外书目名",
+      "authorname": "法布尔",
+      "price": "39.80",
+      "type": 1,
+      "typename": "课外读物",
+      "image_url": "https://img3m5.ddimg.cn/1/11/11441559295-1_b_1.jpg",
+      "publisher": "人民文学出版社",
+      "comments_count": 272,
+      "activestate": true,
+      "publish_date": "2022-01-01",
+      "dat": 20220101
+    },
+    {
+      "id": "293687801",
+      "name": "奇趣动物王国（精装大开本纸板书 生僻字注音 全彩插图）【揭秘动物科普百科绘本】9-12岁学生课外读物【科学认知书籍】",
+      "subname": "8-12岁儿童探索奇趣动物王国启蒙书籍带有扫码听书情景互动读物书 儿童科普动物知识绘本",
+      "authorname": "明洋卓安",
+      "price": "33.20",
+      "publisher": "科学普及出版社",
+      "publish_date": "2023-07-09",
+      "dat": 20230709,
+      "original_price": "79.00",
+      "comments_count": 18,
+      "type": 1,
+      "activestate": true,
+      "typename": "课外读物",
+      "image_url": "https://img3m0.ddimg.cn/34/30/29368780-1_h_2.jpg"
+    },
+    {
+      "id": "28990164",
+      "name": "快乐读书吧二年级下册：愿望的实现+金波作品选+神笔马良+七色花(共4册)小学生语文教材推荐课外读物",
+      "subname": "小学语文教材指定阅读全彩注音 小学生课外经典书目",
+      "authorname": "金波，洪汛涛等著 斑马爱读书主编",
+      "price": "21.90",
+      "publisher": "云南出版集团公司 晨光出版社",
+      "publish_date": "2020-03-01",
+      "dat": 20200301,
+      "comments_count": 348,
+      "original_price": "49.00",
+      "type": 1,
+      "activestate": true,
+      "typename": "课外读物",
+      "image_url": "https://img3m4.ddimg.cn/93/35/28990164-1_h_19.jpg"
+    },
+    {
+      "id": "27867684",
+      "name": "伊索寓言全集（精装版）【青少年读物】【经典儿童文学】适合10-14岁孩子的课外读物【名家名译】",
+      "subname": "世界文学名著 读不同的故事，感受不一样的明天！",
+      "authorname": "(古希腊) 伊索",
+      "price": "20.00",
+      "publisher": "中国文联出版社",
+      "publish_date": "2015-11-01",
+      "dat": 20151101,
+      "original_price": "24.00",
+      "comments_count": 588,
+      "type": 1,
+      "activestate": true,
+      "typename": "课外读物",
+      "image_url": "https://img3m4.ddimg.cn/75/24/27867684-1_h_9.jpg"
+    }
+  ],
+  "bookskulist": [
+    {
+      "bookid": "29368765",
+      "bookskuid": 29368765111,
+      "tag": {
+        "material": "材质",
+        "size": "尺寸",
+        "Specification": "规格"
+      },
+      "material": "牛皮纸封(定制)",
+      "size": "舒适阅读版(220mm*310mm)",
+      "Specification": "全新",
+      "materialid": 1,
+      "sizeid": 1,
+      "Specificationid": 1,
+      "imgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "price": "59.00",
+      "stock_num": 22
+    },
+    {
+      "bookid": "29368765",
+      "bookskuid": 29368765121,
+      "tag": {
+        "material": "材质",
+        "size": "尺寸",
+        "Specification": "规格"
+      },
+      "material": "牛皮纸封(定制)",
+      "size": "精致便携版(150mm*220mm)",
+      "Specification": "全新",
+      "materialid": 1,
+      "sizeid": 2,
+      "Specificationid": 1,
+      "imgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "price": "55",
+      "stock_num": 22
+    },
+    {
+      "bookid": "29368765",
+      "bookskuid": 29368765211,
+      "tag": {
+        "material": "材质",
+        "size": "尺寸",
+        "Specification": "规格"
+      },
+      "material": "普通纸",
+      "size": "舒适阅读版(220mm*310mm)",
+      "Specification": "全新",
+      "materialid": 2,
+      "sizeid": 1,
+      "Specificationid": 1,
+      "imgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "price": "55",
+      "stock_num": 22
+    },
+    {
+      "bookid": "29368765",
+      "bookskuid": 29368765212,
+      "tag": {
+        "material": "材质",
+        "size": "尺寸",
+        "Specification": "规格"
+      },
+      "material": "普通纸",
+      "size": "舒适阅读版(220mm*310mm)",
+      "Specification": "旧版(二手)",
+      "materialid": 2,
+      "sizeid": 1,
+      "Specificationid": 2,
+      "imgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "price": "29.80",
+      "stock_num": 22
+    },
+    {
+      "bookid": "29368765",
+      "bookskuid": 29368765221,
+      "tag": {
+        "material": "材质",
+        "size": "尺寸",
+        "Specification": "规格"
+      },
+      "material": "普通纸",
+      "size": "精致便携版(150mm*220mm)",
+      "Specification": "全新",
+      "materialid": 2,
+      "sizeid": 2,
+      "Specificationid": 1,
+      "imgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "price": "50.00",
+      "stock_num": 22
+    },
+    {
+      "bookid": "29368765",
+      "bookskuid": 29368765222,
+      "tag": {
+        "material": "材质",
+        "size": "尺寸",
+        "Specification": "规格"
+      },
+      "material": "普通纸",
+      "size": "精致便携版(150mm*220mm)",
+      "Specification": "旧版(二手)",
+      "materialid": 2,
+      "sizeid": 2,
+      "Specificationid": 2,
+      "imgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "price": "25.30",
+      "stock_num": 22
+    },
+    {
+      "bookid": "29368765",
+      "bookskuid": 29368765311,
+      "tag": {
+        "material": "材质",
+        "size": "尺寸",
+        "Specification": "规格"
+      },
+      "material": "原版",
+      "size": "舒适阅读版(220mm*310mm)",
+      "Specification": "全新",
+      "materialid": 3,
+      "sizeid": 1,
+      "Specificationid": 1,
+      "imgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "price": "49",
+      "stock_num": 22
+    },
+    {
+      "bookid": "29368765",
+      "bookskuid": 29368765312,
+      "tag": {
+        "material": "材质",
+        "size": "尺寸",
+        "Specification": "规格"
+      },
+      "material": "原版",
+      "size": "舒适阅读版(220mm*310mm)",
+      "Specification": "旧版(二手)",
+      "materialid": 3,
+      "sizeid": 1,
+      "Specificationid": 2,
+      "imgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "price": "30.80",
+      "stock_num": 22
+    },
+    {
+      "bookid": "29368765",
+      "bookskuid": 29368765321,
+      "tag": {
+        "material": "材质",
+        "size": "尺寸",
+        "Specification": "规格"
+      },
+      "material": "原版",
+      "size": "精致便携版(150mm*220mm)",
+      "Specification": "全新",
+      "materialid": 3,
+      "sizeid": 2,
+      "Specificationid": 1,
+      "imgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "price": "49.80",
+      "stock_num": 22
+    },
+    {
+      "bookid": "29368765",
+      "bookskuid": 29368765322,
+      "tag": {
+        "material": "材质",
+        "size": "尺寸",
+        "Specification": "规格"
+      },
+      "material": "原版",
+      "size": "精致便携版(150mm*220mm)",
+      "Specification": "旧版(二手)",
+      "materialid": 3,
+      "sizeid": 2,
+      "Specificationid": 2,
+      "imgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/19/15/29368765-1_h_2.jpg",
+      "price": "30",
+      "stock_num": 22
+    },
+    {
+      "bookid": "295678959",
+      "bookskuid": 29567895911,
+      "tag": {
+        "taocan": "套餐",
+        "size": "尺寸"
+      },
+      "taocan": "一本独立包装",
+      "size": "精致便携版(150mm*220mm)",
+      "taocanid": 1,
+      "sizeid": 1,
+      "imgUrl": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg",
+      "price": "9.90",
+      "stock_num": 108
+    },
+    {
+      "bookid": "295678959",
+      "bookskuid": 29567895921,
+      "tag": {
+        "taocan": "套餐",
+        "size": "尺寸"
+      },
+      "taocan": "两本合装",
+      "size": "精致便携版(150mm*220mm)",
+      "taocanid": 2,
+      "sizeid": 1,
+      "imgUrl": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg",
+      "price": "17",
+      "stock_num": 10
+    },
+    {
+      "bookid": "295678959",
+      "bookskuid": 29567895931,
+      "tag": {
+        "taocan": "套餐",
+        "size": "尺寸"
+      },
+      "taocan": "整套装",
+      "size": "精致便携版(150mm*220mm)",
+      "taocanid": 3,
+      "sizeid": 1,
+      "imgUrl": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg",
+      "price": "17",
+      "stock_num": 10
+    },
+    {
+      "bookid": "295678959",
+      "bookskuid": 29567895912,
+      "tag": {
+        "taocan": "套餐",
+        "size": "尺寸"
+      },
+      "taocan": "一本独立包装",
+      "size": "护眼阅读版(220mm*320mm)",
+      "taocanid": 1,
+      "sizeid": 2,
+      "imgUrl": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg",
+      "price": "21.90",
+      "stock_num": 108
+    },
+    {
+      "bookid": "295678959",
+      "bookskuid": 29567895922,
+      "tag": {
+        "taocan": "套餐",
+        "size": "尺寸"
+      },
+      "taocan": "两本合装",
+      "size": "护眼阅读版(220mm*320mm)",
+      "taocanid": 2,
+      "sizeid": 2,
+      "imgUrl": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg",
+      "price": "17.40",
+      "stock_num": 23
+    },
+    {
+      "bookid": "295678959",
+      "bookskuid": 29567895932,
+      "tag": {
+        "taocan": "套餐",
+        "size": "尺寸"
+      },
+      "taocan": "整套装",
+      "size": "护眼阅读版(220mm*320mm)",
+      "taocanid": 3,
+      "sizeid": 2,
+      "imgUrl": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg",
+      "previewImgUrl": "https://img3m5.ddimg.cn/60/11/29567895-1_h_1.jpg",
+      "price": "27.9",
+      "stock_num": 333
+    }
+  ],
+  "userlist": [
+  ],
+  "shoppingcar": [
+  ],
+  "address": [
+  ]
+}

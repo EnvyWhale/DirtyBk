@@ -1,0 +1,855 @@
+{
+    "errorCode": 0,
+    "products": [
+        {
+            "id": "26445650",
+            "trace_id": "product_trace=0000000064f886c200c8041d0000000001938752",
+            "stock": 1,
+            "total_review_count": "216200",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "面纱（毛姆于女性觉醒的经典作品，三次改编成电影。在欲望中流离失所，在自我觉醒中掌控命运。无删减全译本，获19万+好评）",
+            "subname": "毛姆笔下“一部以故事情节而不是以人物为发展契机的小说”。一场乱世爱情，一幕婚外恋，一个女人关于爱与自我的救赎。在书中收获爱情与自由的真谛。",
+            "authorname": "〔英〕毛姆 著，王晋华 译",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "10.50",
+            "dd_sale_price": "10.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "21.60",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.03.56.01.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "时代文艺出版社",
+            "publish_date": "2019-01-01",
+            "original_price": "27.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "经典",
+                    "keys": [
+                        11,
+                        13
+                    ]
+                }
+            ],
+            "image_url": "https://img3m0.ddimg.cn/77/11/26445650-1_h_12.jpg",
+            "product_url": "http://product.m.dangdang.com/26445650.html?t=1694009026",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "秒杀",
+            "label_type_id": "promotion:230",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=132",
+            "shop_name": "当当出版品牌旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "26445650",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "抢购",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29374554",
+            "trace_id": "product_trace=0000000064f886c200c8041d0000000001c0385a",
+            "stock": 1,
+            "total_review_count": "304",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "套中人：契诃夫经典小说集（村上春树、毛姆推崇的短篇小说神作！零碎时间读，过足小说瘾！译自俄语原版！全新插图珍藏版！读经典",
+            "subname": "《月亮与六便士》作者毛姆：“契诃夫把所有的小说家都挤到一边去了！赞赏他，是你有鉴赏力的证明；不喜欢他，就等于承认自己是外行。”村上春树赞叹：“契诃夫作为一名观察者，真是非常出色啊！”",
+            "authorname": "安东·巴甫洛维奇·契诃夫 著，作家榜经典名著 出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "24.90",
+            "dd_sale_price": "24.90",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "49.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.03.35.08.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "浙江文艺出版社",
+            "publish_date": "2021-09-01",
+            "original_price": "49.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "经典小说",
+                    "keys": [
+                        7,
+                        11
+                    ]
+                }
+            ],
+            "image_url": "https://img3m4.ddimg.cn/66/32/29374554-1_h_13.jpg",
+            "product_url": "http://product.m.dangdang.com/29374554.html?t=1694009026",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=554",
+            "shop_name": "作家榜经典名著",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29374554",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29374549",
+            "trace_id": "product_trace=0000000064f886c200c8041d0000000001c03855",
+            "stock": 1,
+            "total_review_count": "271",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "变色龙：契诃夫经典小说集（村上春树、毛姆推崇的短篇小说神作！零碎时间读，过足小说瘾！译自俄语原版！全新插图珍藏版！读经典",
+            "subname": "《月亮与六便士》作者毛姆：“契诃夫把所有的小说家都挤到一边去了！赞赏他，是你有鉴赏力的证明；不喜欢他，就等于承认自己是外行。”村上春树赞叹：“契诃夫作为一名观察者，真是非常出色啊！”",
+            "authorname": "安东·巴甫洛维奇·契诃夫 著，作家榜经典名著 出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "22.50",
+            "dd_sale_price": "22.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "45.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.03.35.08.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "浙江文艺出版社",
+            "publish_date": "2021-09-01",
+            "original_price": "45.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "经典小说",
+                    "keys": [
+                        7,
+                        11
+                    ]
+                }
+            ],
+            "image_url": "https://img3m9.ddimg.cn/61/27/29374549-1_h_13.jpg",
+            "product_url": "http://product.m.dangdang.com/29374549.html?t=1694009026",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=554",
+            "shop_name": "作家榜经典名著",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29374549",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29389979",
+            "trace_id": "product_trace=0000000064f886c200c8041d0000000001c0749b",
+            "stock": 1,
+            "total_review_count": "2337",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "四世同堂（老舍经典作品）老舍经典小说代表作，老舍亲定版，精编细注无障碍阅读。",
+            "subname": "老舍经典作品，小说代表作，老舍亲定版，《亚洲周刊》“二十世纪中文小说一百强”及“百年百种优秀中国文学图书”，依据中国现代文学馆老舍手稿逐字校订！精编细注无障碍阅读。",
+            "authorname": "老舍",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "29.00",
+            "dd_sale_price": "29.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "58.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.03.30.00.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "作家出版社",
+            "publish_date": "2022-04-13",
+            "original_price": "58.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "经典小说",
+                    "keys": [
+                        14,
+                        18
+                    ]
+                }
+            ],
+            "image_url": "https://img3m9.ddimg.cn/47/28/29389979-1_h_2.jpg",
+            "product_url": "http://product.m.dangdang.com/29389979.html?t=1694009026",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=288",
+            "shop_name": "作家出版社",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29389979",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29459334",
+            "trace_id": "product_trace=0000000064f886c200c8041d0000000001c18386",
+            "stock": 1,
+            "total_review_count": "328",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "孙子兵法 众阅国学馆双色版本 初中生高中生国学经典小说书籍 经典历史人物智慧谋略故事名人传 中小学生经典课外阅读国学读物",
+            "subname": "多方位白话精细解读·消除阅读艰涩",
+            "authorname": "孙武",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "15.20",
+            "dd_sale_price": "15.20",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "15.20",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.43.70.02.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "辽宁美术出版社",
+            "publish_date": "2022-05-01",
+            "original_price": "25.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "经典小说",
+                    "keys": [
+                        23,
+                        27
+                    ]
+                }
+            ],
+            "image_url": "https://img3m4.ddimg.cn/3/8/29459334-1_h_1690526902.jpg",
+            "product_url": "http://product.m.dangdang.com/29459334.html?t=1694009026",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "满额减",
+            "label_type_id": "promotion:20",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=1051",
+            "shop_name": "青橙蓝图书自营店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29459334",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "每满100-50",
+                    "type": 1
+                },
+                {
+                    "name": "满1件6折",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29613649",
+            "trace_id": "product_trace=0000000064f886c200c8041d0000000001c3de51",
+            "stock": 1,
+            "total_review_count": 0,
+            "score": 0,
+            "stars": {
+                "full_star": 0,
+                "has_half_star": false
+            },
+            "name": "阿来经典小说集：签名版（套装8册）",
+            "subname": "茅盾文学奖史上ZUI年轻获奖者! 阿来长篇小说代表作! 《尘埃落定》《行刑人·银匠——〈尘埃落定〉外篇》《随风飘散》《天火》《达瑟与达戈》《荒芜》《轻雷》《空山》",
+            "authorname": "阿来",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "261.50",
+            "dd_sale_price": "261.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "261.50",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.03.30.00.00.00",
+            "high_common_rate": "",
+            "is_publication": "1",
+            "publisher": "浙江文艺出版社",
+            "publish_date": "2023-08-01",
+            "original_price": "379.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "经典小说",
+                    "keys": [
+                        2,
+                        6
+                    ]
+                }
+            ],
+            "image_url": "https://img3m9.ddimg.cn/76/33/29613649-1_h_1692931981.jpg",
+            "product_url": "http://product.m.dangdang.com/29613649.html?t=1694009026",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "加价购",
+            "label_type_id": "promotion:28",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=469",
+            "shop_name": "浙江文艺出版社有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29613649",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "新品",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "id": "25233927",
+            "trace_id": "product_trace=0000000064f886c200c8041d0000000001810a07",
+            "stock": 1,
+            "total_review_count": "314941",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "橘子不是唯一的水果",
+            "subname": "橘子不是唯 一的水果，你的人生，还有别的可能！张悦然、蒋方舟、任晓雯、刘瑜一致推荐的当代英国天才女作家 。一部大胆的、光芒四射的小说。就天赋与灵气而言，少有作家能与珍妮特·温特森相比！",
+            "authorname": "(英)珍妮特·温特森 著， 新经典 出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "22.10",
+            "dd_sale_price": "22.10",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "44.10",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1901109362",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "20.99",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.03.45.00.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "北京联合出版有限公司",
+            "publish_date": "2018-04-01",
+            "original_price": "49.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [],
+            "image_url": "https://img3m7.ddimg.cn/15/1/25233927-1_h_1689230101.jpg",
+            "product_url": "http://product.m.dangdang.com/25233927.html?t=1694009026",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=279",
+            "shop_name": "新经典信息技术有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25233927",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29267111",
+            "trace_id": "product_trace=0000000064f886c200c8041d0000000001be94a7",
+            "stock": 1,
+            "total_review_count": "185002",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "人生（茅盾文学奖得主路遥作品，电视剧《人生之路》原著，陈晓、李沁、张嘉倪主演。高加林一代青年冲开困境，去往人生新“路”。",
+            "subname": "茅盾文学奖得主路遥代表作，激励万千读者，堪称《平凡的世界》序篇。豆瓣8.5分，陈忠实、王安忆、格非、贾樟柯力荐。关于每个年轻人的困境、期待与追求。发行量超290万册。",
+            "authorname": "路遥 著 ，新经典 出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "27.20",
+            "dd_sale_price": "27.20",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "27.20",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1901199727",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "22.8",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.03.45.00.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "北京十月文艺出版社",
+            "publish_date": "2021-07-01",
+            "original_price": "39.50",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [],
+            "image_url": "https://img3m1.ddimg.cn/38/0/29267111-1_h_6.jpg",
+            "product_url": "http://product.m.dangdang.com/29267111.html?t=1694009026",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "加价购",
+            "label_type_id": "promotion:28",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=279",
+            "shop_name": "新经典信息技术有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29267111",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "id": "23806793",
+            "trace_id": "product_trace=0000000064f886c200c8041d00000000016b4349",
+            "stock": 1,
+            "total_review_count": "40113",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "三个火枪手 大仲马经典长篇小说，又名《三剑客》，多次翻拍为电影 世界名著典藏",
+            "subname": "名家全译本 首都师范大学法语教授、著名翻译家李玉民译作 国际大师插图",
+            "authorname": "(法)大仲马 著，李玉民 译 万亭文化 出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "32.30",
+            "dd_sale_price": "32.30",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "32.30",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.43.77.02.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "中央编译出版社",
+            "publish_date": "2015-06-01",
+            "original_price": "38.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "经典",
+                    "keys": [
+                        9,
+                        11
+                    ]
+                },
+                {
+                    "word": "小说",
+                    "keys": [
+                        13,
+                        15
+                    ]
+                }
+            ],
+            "image_url": "https://img3m3.ddimg.cn/65/31/23806793-1_h_11.jpg",
+            "product_url": "http://product.m.dangdang.com/23806793.html?t=1694009026",
+            "pre_sale": "0",
+            "presale_start_date": "2023-06-20 18:35:25",
+            "presale_end_date": "2023-06-30 18:35:29",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "满额减",
+            "label_type_id": "promotion:20",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=762",
+            "shop_name": "北京万亭文化发展有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "23806793",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "每满100-50",
+                    "type": 1
+                },
+                {
+                    "name": "满1件6折",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "27875441",
+            "trace_id": "product_trace=0000000064f886c200c8041d0000000001a95871",
+            "stock": 1,
+            "total_review_count": "15095",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "红与黑 (经典新读，中央编译出版社）",
+            "subname": "名家全译本 中国社会科学院著名翻译家罗新璋权威译作 国际大师插图",
+            "authorname": "(法 )斯当达 著， 罗新璋 译 万亭文化 出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "12.80",
+            "dd_sale_price": "12.80",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "25.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.03.45.00.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "中央编译出版社",
+            "publish_date": "2015-01-01",
+            "original_price": "36.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "经典",
+                    "keys": [
+                        5,
+                        7
+                    ]
+                }
+            ],
+            "image_url": "https://img3m1.ddimg.cn/11/11/27875441-1_h_17.jpg",
+            "product_url": "http://product.m.dangdang.com/27875441.html?t=1694009026",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=762",
+            "shop_name": "北京万亭文化发展有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "27875441",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        }
+    ],
+    "support_shop_tmp": 0,
+    "correction_prompt": [],
+    "coupon_info": {
+        "curtime": 1694009026
+    },
+    "page": {
+        "total": "1175437",
+        "pagecount": "100",
+        "pageindex": "1",
+        "pagesize": "10",
+        "webtemplate": "PUB_TEMPLATE",
+        "showcase": "list",
+        "waterfall": 0
+    },
+    "keyword": "经典小说",
+    "keywordStr": "经典小说 共1175437个结果",
+    "hotKeywords": [],
+    "promotions": {
+        "promo_word": "查看全部大促商品",
+        "link_url": "http://touch.m.dangdang.com/topics.php?page_id=special_20230808_xspk",
+        "promo_id": "20160601",
+        "promo_word_highlight": "全部大促"
+    },
+    "shop_info": [],
+    "screening": [],
+    "shop_banner": [],
+    "none_result_enabled": 0,
+    "less_result_enabled": 0,
+    "permanent_id": null,
+    "banner": [],
+    "posters": []
+}

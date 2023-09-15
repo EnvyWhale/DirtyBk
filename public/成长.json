@@ -1,0 +1,968 @@
+{
+    "errorCode": 0,
+    "products": [
+        {
+            "id": "25166912",
+            "trace_id": "product_trace=0000000064f887340068a70a0000000001800440",
+            "stock": 1,
+            "total_review_count": "341664",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "终身成长：重新定义成功的思维模式",
+            "subname": "樊登。比尔·盖茨撰文推荐，颠覆传统成功学观点，影响美国校园教育的创新理念。国内销量突破100万！",
+            "authorname": "(美)卡罗尔·德韦克(Carol Dweck) ， 译者：楚祎楠 后浪",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "22.50",
+            "dd_sale_price": "22.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "44.90",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1900742447",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "19.99",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.31.02.00.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "江西人民出版社",
+            "publish_date": "2017-11-01",
+            "original_price": "49.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "成长",
+                    "keys": [
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "image_url": "https://img3m2.ddimg.cn/23/30/25166912-1_h_36.jpg",
+            "product_url": "http://product.m.dangdang.com/25166912.html?t=1694009140",
+            "pre_sale": "0",
+            "presale_start_date": "2022-08-08 10:45:59",
+            "presale_end_date": "2022-08-18 10:45:55",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=261",
+            "shop_name": "后浪出版咨询（北京）有限责任公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25166912",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29153228",
+            "trace_id": "product_trace=0000000064f887340068a70a0000000001bcd7cc",
+            "stock": 1,
+            "total_review_count": "1511",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "成长的一万种可能：找到自我发展的方向和力量（滚蛋吧，2020！）",
+            "subname": "豆瓣高评著作！这世界规定了太多我们应该成为的样子，但是其实每一种成长都是一种可能！英国心理学会推荐的12堂心理成长课，直面人生问题，提供可投入练习的改变之法！随书附赠6周操作手册，解锁百变用法！",
+            "authorname": "(英)安迪·巴克 贝丝·伍德 著",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "19.80",
+            "dd_sale_price": "19.80",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "19.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.31.02.00.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "民主与建设出版社",
+            "publish_date": "2020-11-01",
+            "original_price": "49.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "成长",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "image_url": "https://img3m8.ddimg.cn/5/3/29153228-1_h_25.jpg",
+            "product_url": "http://product.m.dangdang.com/29153228.html?t=1694009140",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "N元场",
+            "label_type_id": "promotion:206",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=326",
+            "shop_name": "北京时代华语图书股份有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29153228",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "49元5件",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29488000",
+            "trace_id": "product_trace=0000000064f887340068a70a0000000001c1f380",
+            "stock": 1,
+            "total_review_count": "337",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "成长比成功更重要 增订本（凌志军畅销励志经典，李开复作序推荐：成长之路上的坚实阶梯！）",
+            "subname": "新增30位主人公履历！凌志军励志经典，李开复作序推荐！30位一流科学家及企业精英的成长故事，关于成长的八个秘密！天才是可以教出来的！改变对教育的看法，让自己像天才一样成长！",
+            "authorname": "凌志军 著,博集天卷 出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "29.00",
+            "dd_sale_price": "29.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "58.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1901322472",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "41.99",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.21.02.03.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "湖南文艺出版社",
+            "publish_date": "2023-01-01",
+            "original_price": "58.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "成长",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "word": "成长",
+                    "keys": [
+                        31,
+                        33
+                    ]
+                }
+            ],
+            "image_url": "https://img3m0.ddimg.cn/58/36/29488000-1_h_2.jpg",
+            "product_url": "http://product.m.dangdang.com/29488000.html?t=1694009140",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=277",
+            "shop_name": "中南博集天卷文化传媒有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29488000",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "callback_url": "https://a.dangdang.com/mobile_cost.php?q=fvrjalwbdCwM8IVF/nJR1F94QXB7P3K5uo4ei7iOPgDSSZ96TM61BUhlBAFRbLHsV5dtf4Z81CcW3uSioB+j3HFsU75QxaDhc9Wbvzm3B4Y25Uaddv4gvqZw5q1u62tTYlEFx7BX/23k30mJom7JAvNzaZv+qYwP+4XDmkZPitYvz0ZNTMa6Vx7I6guXq2zo9wYZupwiMUpMgPR5BqQieoMwoRqLOdxIKHukcKSsiwzAE0KphDmUw+cQIwN/iCQbAy/2Trhe+0QBhOxw10IuhCzwMso6P1ejPwg8uklwzOHTTA4ftxXtwwogRASOkU4PHPnfe5F79Q6e9LRyAhSXtMtW/CMq5zOvjGZcxU5D3mW5vY7RJ5O7HOrK6MzdkMeJ3q5k3yy2533AKYeZhgZb2dwtLAiEbkbaJEngfd1MTmT5QB10hNPogBgtj1JJBNRB0nfz0DtBQTyV+UzXGFSAytcU78VNHdwIX3OUyv5o4+OhXI=&platform=touch_2_0",
+            "name": "正面管教绘本-小企鹅乔比的成长故 事 限量珍藏版（60册绘本+乔比安",
+            "pid": 29204507,
+            "product_id": 29204507,
+            "id": 29204507,
+            "label_recommend": true,
+            "price": "234.00",
+            "market_price": "",
+            "is_phone_price": false,
+            "add_cart_button_enabled": 1,
+            "ad_id": 5437936,
+            "p_img": "https://img3m7.ddimg.cn/2/0/29204507-1_b_85.jpg",
+            "publisher": "甘肃少年儿童出版社",
+            "authorname": "提埃里·顾旦 著，余治莹 吴愉萱 孙智绮 译",
+            "comments_count": 20762,
+            "high_common_rate": "100.0",
+            "stars": {
+                "full_star": 10,
+                "has_half_star": false
+            },
+            "ebook_price": "",
+            "shop_id": 1000000155,
+            "show_dangdangsale": 0,
+            "is_catalog_product": 1,
+            "image_url": "https://img3m7.ddimg.cn/2/0/29204507-1_h_85.jpg",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "券",
+                    "type": 1
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ],
+            "product_id2": 29204507,
+            "product_url": "http://product.m.dangdang.com/29204507.html?t=1694009140"
+        },
+        {
+            "callback_url": "https://a.dangdang.com/mobile_cost.php?q=fbinTzm/Nh0HzlNNfmZzlz2PI1XGglOxL/k32Fz0KZEYvXHD2fMCTjJoEwJYRyJhW0mwKIjIbW9nX3AIBAFY3sCCA0B8TLyITHLrFYpLkw1I8W88rL/dqEc6ZoGOeHV8KOKlN+wWWS7PaBs7VcMKiXwsRoRz3q6Sf6P6K2nqgcrMolIaFMN4X9B/+q5Bggg+R0NVr3yqq9MxaVOhH00NCZp+e2xtaTyG3wX8xW9Gd8Hcg200v3Yu+fWtImpaoq3DdKH8mcoqQYTP6fRZ5OjfuHnLBYsnUmcyXGCOjgzuZaKxRyE/OlcqYiY+0ABsrAIXi7XgUmPDjOgcCCuZCsEPogEhaxWix9wD6cSJJav/gK9w27MPFBW6BFcsgxXGsAn5ZMySQkgiBj4j69IGMRAKCmlUDIOXRieoBMPsC4K6vdvb3NjQwreKv5+dqEJ5Lr4w/YhGKF001IYzfsZNMKy3If0Ug==&platform=touch",
+            "name": "阳光班级成长簿 逆水寻梦的鱼 伍 美珍主编 北京少年儿童出版社",
+            "pid": 1641453994,
+            "product_id": 1641453994,
+            "id": 1641453994,
+            "label_recommend": true,
+            "price": "29.00",
+            "market_price": "",
+            "is_phone_price": false,
+            "add_cart_button_enabled": 1,
+            "ad_id": 7551763,
+            "p_img": "https://img3m4.ddimg.cn/37/17/1641453994-1_b_2.jpg",
+            "publisher": "北京少年儿童出版社",
+            "authorname": "伍美珍",
+            "comments_count": 545,
+            "high_common_rate": "100.0",
+            "stars": {
+                "full_star": 10,
+                "has_half_star": false
+            },
+            "ebook_price": "",
+            "shop_id": 22905,
+            "show_dangdangsale": 0,
+            "is_catalog_product": 1,
+            "image_url": "https://img3m4.ddimg.cn/37/17/1641453994-1_h_2.jpg",
+            "product_tags": [],
+            "product_id2": 1641453994,
+            "product_url": "http://product.m.dangdang.com/1641453994.html?t=1694009140"
+        },
+        {
+            "id": "1770858813",
+            "trace_id": "product_trace=0000000064f887340068a70a00000000698d293d",
+            "stock": 1,
+            "total_review_count": "361",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "小鸡球球成长绘本系列全6册点读版 支持小鸡球球点读笔",
+            "subname": "",
+            "authorname": "(日)入山智 著；崔维燕 译；心喜阅童书 出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "23596",
+            "price": "91.00",
+            "dd_sale_price": "91.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "143.28",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "shop_info": "海豚传媒官方旗舰店",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.44.07.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "长江少年儿童出版社",
+            "publish_date": "2018-02-02",
+            "original_price": "238.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "成长",
+                    "keys": [
+                        4,
+                        6
+                    ]
+                }
+            ],
+            "image_url": "https://img3m3.ddimg.cn/75/0/1770858813-1_h_75.jpg",
+            "product_url": "http://product.m.dangdang.com/1770858813.html?t=1694009140",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "shop://id=23596",
+            "shop_name": "海豚传媒官方旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 0,
+            "product_id2": "1770858813",
+            "product_tags": [
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "券",
+                    "type": 1
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "25270073",
+            "trace_id": "product_trace=0000000064f887340068a70a0000000001819739",
+            "stock": 1,
+            "total_review_count": "21851",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "成长的味道·香味互动绘本（精装全7册）日本绘本作家木村裕一等人联袂打造，给孩子一段闻得到气味的美育童年",
+            "subname": "奇妙的香味印刷，配合页面上的翻翻、折叠、洞洞，感受成长的味道！",
+            "authorname": "(日)木村裕一、(日)柳泽幸子 著，(日)江川智穂、福田岩绪、西内俊雄等 绘，彭懿 译，",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "115.20",
+            "dd_sale_price": "115.20",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "230.40",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.70.01.02.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "辽宁少年儿童出版社",
+            "publish_date": "2018-06-01",
+            "original_price": "288.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "成长",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "image_url": "https://img3m3.ddimg.cn/26/35/25270073-1_h_25.jpg",
+            "product_url": "http://product.m.dangdang.com/25270073.html?t=1694009140",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=132",
+            "shop_name": "当当出版品牌旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25270073",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29409263",
+            "trace_id": "product_trace=0000000064f887340068a70a0000000001c0bfef",
+            "stock": 1,
+            "total_review_count": "91293",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "小鸡球球成长绘本：最新3册（点读版，送亲子阅读入门30讲视频课程，小鸡球球生日快乐+小鸡球球下雪天+小鸡球球当哥哥了）",
+            "subname": "50万妈妈口碑推荐。全新升级——3个成长故事+3个故事音频+“亲子阅读入门30讲”视频课程，小鸡球球妹妹超萌登场，让孩子和小鸡球球一起体验人际关系初成长。（心喜阅童书出品）",
+            "authorname": "(日)入山 智/著绘 崔维燕/译",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "59.70",
+            "dd_sale_price": "59.70",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "70.20",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.44.01.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "新星出版社",
+            "publish_date": "2022-06-07",
+            "original_price": "119.40",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "成长",
+                    "keys": [
+                        4,
+                        6
+                    ]
+                }
+            ],
+            "image_url": "https://img3m3.ddimg.cn/26/35/29409263-1_h_1691402915.jpg",
+            "product_url": "http://product.m.dangdang.com/29409263.html?t=1694009140",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=153",
+            "shop_name": "海豚传媒自营官方旗舰店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29409263",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "25349751",
+            "trace_id": "product_trace=0000000064f887340068a70a000000000182ce77",
+            "stock": 1,
+            "total_review_count": "9662",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "成长吧，少年：给孩子的心理指南书 (全16册，附赠成长笔记本。如何与同学、父母相处，远离手机，缓解压力，增强自信。让孩子",
+            "subname": "享誉欧洲的青少年心理专家写给孩子的成长课！独创手册式解决方案，每册一个孩子的心理烦恼或困惑，作者从心理专业视角答疑解惑，孩子按书中步骤，就能一天天变得更加专注、成熟、高效、开朗、计划性强、善于解决问题",
+            "authorname": "(法)斯蒂芬·克莱尔热博士",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "144.00",
+            "dd_sale_price": "144.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "288.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.71.04.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "光明日报出版社",
+            "publish_date": "2018-10-01",
+            "original_price": "288.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "成长",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "word": "成长",
+                    "keys": [
+                        25,
+                        27
+                    ]
+                }
+            ],
+            "image_url": "https://img3m1.ddimg.cn/9/15/25349751-1_h_1689912797.jpg",
+            "product_url": "http://product.m.dangdang.com/25349751.html?t=1694009140",
+            "pre_sale": "0",
+            "presale_start_date": "2022-09-27 19:15:09",
+            "presale_end_date": "2022-10-30 19:15:11",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=675",
+            "shop_name": "北京红点智慧文化发展有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25349751",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29337445",
+            "trace_id": "product_trace=0000000064f887340068a70a0000000001bfa765",
+            "stock": 1,
+            "total_review_count": "27462",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "二次成长（我们90%的爱与痛都与心理水平处于婴儿阶段有关。如果人生可以重来，我们该如何长大？B站人气UP主“安慰记心理小",
+            "subname": "我们要背叛多少曾经，才能找到真正的自我？心理年龄小的人，希望有求必应，希望都顺从自己，希望都爱自己……当得不到满足时就会抱怨、焦虑，甚至抑郁。《二次成长》让我们有成人的身体，也有成人的心智。",
+            "authorname": "王瑞 著，文通天下 出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "17.50",
+            "dd_sale_price": "17.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "30.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1901284845",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "19.9",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.31.04.00.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "水利水电出版社",
+            "publish_date": "2022-01-01",
+            "original_price": "56.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "成长",
+                    "keys": [
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "image_url": "https://img3m5.ddimg.cn/82/34/29337445-1_h_36.jpg",
+            "product_url": "http://product.m.dangdang.com/29337445.html?t=1694009140",
+            "pre_sale": "0",
+            "presale_start_date": "2021-12-08 16:09:42",
+            "presale_end_date": "2021-12-24 16:09:43",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=296",
+            "shop_name": "文通天下图书自营店",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29337445",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "23449195",
+            "trace_id": "product_trace=0000000064f887340068a70a000000000165ce6b",
+            "stock": 1,
+            "total_review_count": "35199",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "成长不烦恼（全20册）",
+            "subname": "美国心理学会儿童心理学专家为3-6岁儿童量身打造，帮助孩子解决成长中的烦恼，如上学焦虑、告状、自卑、不敢尝试等问题。深受中美数百万家庭的青睐",
+            "authorname": "美国心理学会",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "80.00",
+            "dd_sale_price": "80.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "160.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.41.45.03.00.00",
+            "high_common_rate": "99.7",
+            "is_publication": "1",
+            "publisher": "化学工业出版社",
+            "publish_date": "2014-05-01",
+            "original_price": "160.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "成长",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "image_url": "https://img3m5.ddimg.cn/55/1/23449195-1_h_13.jpg",
+            "product_url": "http://product.m.dangdang.com/23449195.html?t=1694009140",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=302",
+            "shop_name": "化学工业出版社",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "23449195",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29265001",
+            "trace_id": "product_trace=0000000064f887340068a70a0000000001be8c69",
+            "stock": 1,
+            "total_review_count": "1883",
+            "score": 3.5,
+            "stars": {
+                "full_star": 3,
+                "has_half_star": true
+            },
+            "name": "成长股投资策略：费雪论成长股获利+怎样选择成长股（套装2册）",
+            "subname": "一套让你成为投资赢家的选股指南! 精确选择成长股 ，持续稳定盈大利! 成长型投资策略，胜过大盘赚大钱！",
+            "authorname": "(美),菲利普A.费雪,，路易斯·纳维里尔，中资海派出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "43.00",
+            "dd_sale_price": "43.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "86.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": "1",
+            "ebook_product_id": "1901210089",
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": 0,
+            "ebook_dd_price": "14.99",
+            "show_ebook_flag": "1",
+            "cat_paths": "01.24.01.00.00.00",
+            "high_common_rate": "99.5",
+            "is_publication": "1",
+            "publisher": "广东经济出版社有限公司",
+            "publish_date": "2021-06-25",
+            "original_price": "86.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "成长",
+                    "keys": [
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "word": "成长",
+                    "keys": [
+                        11,
+                        13
+                    ]
+                },
+                {
+                    "word": "成长",
+                    "keys": [
+                        21,
+                        23
+                    ]
+                }
+            ],
+            "image_url": "https://img3m1.ddimg.cn/7/36/29265001-1_h_11.jpg",
+            "product_url": "http://product.m.dangdang.com/29265001.html?t=1694009140",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=519",
+            "shop_name": "深圳市中资海派文化传播有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 1,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29265001",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        }
+    ],
+    "support_shop_tmp": 0,
+    "correction_prompt": [],
+    "coupon_info": {
+        "curtime": 1694009140
+    },
+    "page": {
+        "total": "2240165",
+        "pagecount": "100",
+        "pageindex": "1",
+        "pagesize": "10",
+        "webtemplate": "PUB_TEMPLATE",
+        "showcase": "list",
+        "waterfall": 0
+    },
+    "keyword": "成长",
+    "keywordStr": "成长 共2240165个结果",
+    "hotKeywords": [],
+    "promotions": {
+        "promo_word": "查看全部大促商品",
+        "link_url": "http://touch.m.dangdang.com/topics.php?page_id=special_20230808_xspk",
+        "promo_id": "20160601",
+        "promo_word_highlight": "全部大促"
+    },
+    "shop_info": [],
+    "screening": [],
+    "shop_banner": [],
+    "none_result_enabled": 0,
+    "less_result_enabled": 0,
+    "permanent_id": null,
+    "banner": [],
+    "posters": []
+}

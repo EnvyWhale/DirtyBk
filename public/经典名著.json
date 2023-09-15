@@ -1,0 +1,959 @@
+{
+    "errorCode": 0,
+    "products": [
+        {
+            "id": "24183943",
+            "trace_id": "product_trace=0000000064f884f00066865a0000000001710487",
+            "stock": 1,
+            "total_review_count": "347440",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "作家榜名著：老人与海（百万册珍藏版《老人与海》！作家鲁羊经典全译本！人可以被毁灭，但不能被打败！读经典名著认准作家榜！）",
+            "subname": "作家鲁羊经典全译本好评如潮！创下347582条真实口碑热评！连续5年稳居当当世界名著畅销榜！靠口碑印数突破100万册！读经典名著，认准作家榜版！",
+            "authorname": "(美) 海明威 著，作家榜经典名著 出品，鲁羊 译",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "19.90",
+            "dd_sale_price": "19.90",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "39.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.03.56.03.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "浙江文艺出版社",
+            "publish_date": "2017-02-20",
+            "original_price": "39.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "经典名著",
+                    "keys": [
+                        49,
+                        53
+                    ]
+                }
+            ],
+            "image_url": "https://img3m3.ddimg.cn/25/3/24183943-1_h_1693804305.jpg",
+            "product_url": "http://product.m.dangdang.com/24183943.html?t=1694008561",
+            "pre_sale": "0",
+            "presale_start_date": "2022-07-10 19:41:52",
+            "presale_end_date": "2022-07-31 19:41:55",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=554",
+            "shop_name": "作家榜经典名著",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "24183943",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "24568743",
+            "trace_id": "product_trace=0000000064f884f00066865a000000000176e3a7",
+            "stock": 1,
+            "total_review_count": "43488",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "作家榜名著：儒林外史（56回足本《儒林外史》！42000多名读者热评！真实好评率高达99%！全新彩插导读注释珍藏！）",
+            "subname": "全新彩插导读注释版《儒林外史》！作家鲁羊亲笔作序！6幅精美插图！43388条真实口碑热评！无障碍阅读！写透中国古代官场的百科全书式小说！读经典名著，认准作家榜！谨防山寨仿冒！",
+            "authorname": "吴敬梓 著，作家榜经典名著 出品，大星文化，梁昌正 陆伟黎 绘",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "22.50",
+            "dd_sale_price": "22.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "45.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.03.32.00.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "浙江文艺出版社",
+            "publish_date": "2017-05-01",
+            "original_price": "45.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "名著",
+                    "keys": [
+                        3,
+                        5
+                    ]
+                }
+            ],
+            "image_url": "https://img3m3.ddimg.cn/12/3/24568743-1_h_1690771781.jpg",
+            "product_url": "http://product.m.dangdang.com/24568743.html?t=1694008561",
+            "pre_sale": "0",
+            "presale_start_date": "2022-06-13 11:07:56",
+            "presale_end_date": "2022-06-18 11:07:58",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=554",
+            "shop_name": "作家榜经典名著",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "24568743",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29552704",
+            "trace_id": "product_trace=0000000064f884f00066865a0000000001c2f040",
+            "stock": 1,
+            "total_review_count": "9901",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "作家榜名著：罗生门（你越早翻开《罗生门》，就越早看清人性的真相！芥川龙之介经典小说集！全新彩插导读珍藏版！）",
+            "subname": "东野圭吾译者林青华全新译本！译自日本岩波书店1977年版底本！新增导读+原创手绘插画+芥川龙之介年表！今日下单，随机赠1款明信片！读经典名著，认准作家榜！",
+            "authorname": "(日) 芥川龙之介，作家榜经典名著 出品，林青华 译",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "22.50",
+            "dd_sale_price": "22.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "45.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.03.56.02.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "浙江文艺出版社",
+            "publish_date": "2023-04-01",
+            "original_price": "45.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "名著",
+                    "keys": [
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "word": "经典",
+                    "keys": [
+                        37,
+                        39
+                    ]
+                }
+            ],
+            "image_url": "https://img3m4.ddimg.cn/16/27/29552704-1_h_12.jpg",
+            "product_url": "http://product.m.dangdang.com/29552704.html?t=1694008561",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=554",
+            "shop_name": "作家榜经典名著",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29552704",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "callback_url": "https://a.dangdang.com/mobile_cost.php?q=fhu6C850pdIux6OyTssmrGIzDtcT9ugYFGyMYkbUh6ccQ+HpjDmyZHyVRu8JnXYNRUDHZ9aCsYrZc03GG2Im2DHqvjqoT+1S/apcpA7ii1ErD+q1FC9Rqxo3zKi/XUNrZFNU8wN1MY8+4OrcRZ1cPAm1PUeOHRQ40dHRUNuQK1qSdVWrqaE0WT5fx+TVlZJQf3mkiQXh4wOqGWBNqj99g2yiViqG/go3vR093zpKJjE3uSEaizncSCh7pHCkrIsMwBNCqYQ5lMPnECMDf4gkGwMv9k64XvtEAYTscNdCLoQs8DLKOj9Xoz8IPLpJcMzh00wzaRufngC8fLgjXv1Iz7ij8vN+sh67D/ssisptAJ6mV3wjKuczr4xmXMVOQ95lub2O0SeTuxzqyujM3ZDHid6uZN8stud9wCmHmYYGW9ncLSwIhG5G2iRJ4H3dTE5k+UAddITT6IAYLY9SSQTUQdJ389A7QUE8lflM1xhUgMrXFO/FTR3cCF9zlMr+aOPjoVy&platform=touch_2_0",
+            "name": "古文观止(上下)(精)/中华经典名著 全本全注全译丛书",
+            "pid": 11187679525,
+            "product_id": 11187679525,
+            "id": 11187679525,
+            "label_recommend": true,
+            "price": "47.16",
+            "market_price": "",
+            "is_phone_price": false,
+            "add_cart_button_enabled": 1,
+            "ad_id": 49933417,
+            "p_img": "https://img3m5.ddimg.cn/88/33/11187679525-1_b_1.jpg",
+            "publisher": "中华书局",
+            "authorname": "总主编:钟基//李先银//王身钢",
+            "comments_count": 0,
+            "high_common_rate": "0.0",
+            "stars": {
+                "full_star": 0,
+                "has_half_star": false
+            },
+            "ebook_price": "",
+            "shop_id": 24705,
+            "show_dangdangsale": 0,
+            "is_catalog_product": 1,
+            "image_url": "https://img3m5.ddimg.cn/88/33/11187679525-1_h_1.jpg",
+            "product_tags": [
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ],
+            "product_id2": 11187679525,
+            "product_url": "http://product.m.dangdang.com/11187679525.html?t=1694008561"
+        },
+        {
+            "callback_url": "https://a.dangdang.com/mobile_cost.php?q=fscXBhYKIgA7FGAFHIpF8B7Ii7Bmz21GxrBiS10IUpQ1Ht6RjGBWNQVGBK5xvmaj97VTaHLdJPhKwrQKhpi9/S1sTO2IUntvTCQ8YkIHs+bdafNqdYGxfeuXqyAtGnFCWOneV6v4Lp4p1zXe8KyCHh5Q0kSlj2L0wXjVoGGlEgrOnzNIZYVkoJ5HbwU3jwjoXwgVNDTSRZitzmdiarnse3G4BukZIPGexga4NkHo+9V5+fYMsSRBKjTey7k3KGDTFkGVucxqpRHxOKAvSCKleDFBg+TbzMrqjEyHlYN1X2C3VfsWV8NKi0WUDuIRt6ZZwROmkfK3Tl9hli9XGl3rSl5Jf5m7XPPD6veRYeEUnhbcJRvAE6sLzzxv9Dr2rJRvCxSzS/0Q28mZayTyO3eCcvg6WGTYQzm++DutWovoQj6GLTY0ghNBjKuRKuN0rvH8LHTxqzvAf2s0IV1hxX4E/o0p4SarNTrOb6KAVDcmn3UCYwvV5W3RP/HGZeyGl9ZFq2k&platform=touch",
+            "name": "正版 经典名著-雾都孤儿 (英) 狄更斯著 世 界名著读本 外国小说文学 五六年",
+            "pid": 1417388936,
+            "product_id": 1417388936,
+            "id": 1417388936,
+            "label_recommend": true,
+            "price": "12.80",
+            "market_price": "",
+            "is_phone_price": false,
+            "add_cart_button_enabled": 1,
+            "ad_id": 26656530,
+            "p_img": "https://img3m6.ddimg.cn/95/3/1417388936-1_b_1.jpg",
+            "publisher": "汕头大学出版社",
+            "authorname": "英) 狄更斯编著",
+            "comments_count": 125,
+            "high_common_rate": "100.0",
+            "stars": {
+                "full_star": 10,
+                "has_half_star": false
+            },
+            "ebook_price": "",
+            "shop_id": 16664,
+            "show_dangdangsale": 0,
+            "is_catalog_product": 1,
+            "image_url": "https://img3m6.ddimg.cn/95/3/1417388936-1_h_1.jpg",
+            "product_tags": [],
+            "product_id2": 1417388936,
+            "product_url": "http://product.m.dangdang.com/1417388936.html?t=1694008561"
+        },
+        {
+            "id": "28520899",
+            "trace_id": "product_trace=0000000064f884f00066865a0000000001b331c3",
+            "stock": 1,
+            "total_review_count": "5525",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "世界经典名著：巴黎圣母院+雾都孤儿+呼啸山庄（全3册）（西方经典读物，课外阅读经典套系）",
+            "subname": "",
+            "authorname": "(法)维克多·雨果 等著，记忆坊出品，有容书邦 发行",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "124.10",
+            "dd_sale_price": "124.10",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "124.10",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.43.77.01.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "江苏凤凰文艺出版社",
+            "publish_date": "2020-04-02",
+            "original_price": "146.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "经典名著",
+                    "keys": [
+                        2,
+                        6
+                    ]
+                }
+            ],
+            "image_url": "https://img3m9.ddimg.cn/88/4/28520899-1_h_9.jpg",
+            "product_url": "http://product.m.dangdang.com/28520899.html?t=1694008561",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "满额减",
+            "label_type_id": "promotion:20",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=764",
+            "shop_name": "麦满分作文",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "28520899",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "每满100-50",
+                    "type": 1
+                },
+                {
+                    "name": "满1件6折",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "24175371",
+            "trace_id": "product_trace=0000000064f884f00066865a000000000170e30b",
+            "stock": 1,
+            "total_review_count": "1522366",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "作家榜名著：月亮与六便士（全新未删节插图珍藏版！毛姆写给年轻人的梦想之书！满地都是六便士，他却抬头看见了月亮！）",
+            "subname": "王芳推荐版本！如果你感到焦虑迷茫，就翻开《月亮与六便士》吧！连续5年稳居小说畅销榜！开创1522341条真实口碑热评！百万读者好评如潮！读经典名著，认准作家榜！",
+            "authorname": "(英) 毛姆 著，作家榜经典名著 出品，徐淳刚(诗人) 译，大星文化，高更 绘",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "19.90",
+            "dd_sale_price": "19.90",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "39.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.03.56.01.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "浙江文艺出版社",
+            "publish_date": "2017-01-10",
+            "original_price": "39.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "名著",
+                    "keys": [
+                        3,
+                        5
+                    ]
+                }
+            ],
+            "image_url": "https://img3m1.ddimg.cn/66/15/24175371-1_h_1693804321.jpg",
+            "product_url": "http://product.m.dangdang.com/24175371.html?t=1694008561",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=554",
+            "shop_name": "作家榜经典名著",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "24175371",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "25107786",
+            "trace_id": "product_trace=0000000064f884f00066865a00000000017f1d4a",
+            "stock": 1,
+            "total_review_count": "84275",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "作家榜名著：人间词话（连续5年稳居畅销榜！真实口碑高达82915条！王国维解读诗词美学！全译全注全彩珍藏版！）",
+            "subname": "诗词美学经典，王国维代表作！全本全译全注！全彩插图珍藏！无需古文基础，也能完全读懂！84326条真实口碑热评！好评如潮！口碑爆棚！读经典名著，认准作家榜！谨防山寨仿冒！",
+            "authorname": "王国维 著，作家榜经典名著 出品，周公度 译注，陈家泠 于非闇 绘，大星文化",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "28.00",
+            "dd_sale_price": "28.00",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "56.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.05.12.00.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "浙江文艺出版社",
+            "publish_date": "2017-07-01",
+            "original_price": "56.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "名著",
+                    "keys": [
+                        3,
+                        5
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/0/30/25107786-1_h_1693804648.jpg",
+            "product_url": "http://product.m.dangdang.com/25107786.html?t=1694008561",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=554",
+            "shop_name": "作家榜经典名著",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25107786",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "25536407",
+            "trace_id": "product_trace=0000000064f884f00066865a000000000185a797",
+            "stock": 1,
+            "total_review_count": "103042",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "作家榜名著：夜航船（读过《夜航船》，灵魂才有趣！年轻人要熟知的4248个文化常识！10万+读者真实口碑热评！拒绝山寨！）",
+            "subname": "有趣有料的文化常识小百科，囊括天文地理、古玩奇器、珍禽异兽、诸子百家、宫廷秘闻、草木花卉、三教九流、鬼怪神异。无需古文基础，也能完全读懂！经典就读作家榜，谨防山寨假冒！",
+            "authorname": "(明) 张岱 著，作家榜经典名著 出品，何三坡 译，贾平凹 荐，大星文化",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "49.90",
+            "dd_sale_price": "49.90",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "99.80",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.05.15.00.00.00",
+            "high_common_rate": "99.9",
+            "is_publication": "1",
+            "publisher": "浙江文艺出版社",
+            "publish_date": "2018-11-01",
+            "original_price": "99.80",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "名著",
+                    "keys": [
+                        3,
+                        5
+                    ]
+                }
+            ],
+            "image_url": "https://img3m7.ddimg.cn/50/6/25536407-1_h_65.jpg",
+            "product_url": "http://product.m.dangdang.com/25536407.html?t=1694008561",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=554",
+            "shop_name": "作家榜经典名著",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25536407",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "25066616",
+            "trace_id": "product_trace=0000000064f884f00066865a00000000017e7c78",
+            "stock": 1,
+            "total_review_count": "38411",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "作家榜名著：背影朱自清经典散文集（全彩插图珍藏版朱自清《背影》！收录朱自清散文经典足足48篇！近40000条真实好评！）",
+            "subname": "收录朱自清散文经典足足48篇！全新手绘精美插图！36977条真实口碑热评！好评如潮！提升你的阅读写作能力！获得美的享受！读经典名著，认准作家榜！谨防山寨仿冒！",
+            "authorname": "朱自清 著，作家榜经典名著 出品，黄珊珊 绘",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "19.90",
+            "dd_sale_price": "19.90",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "39.90",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.05.91.00.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "浙江文艺出版社",
+            "publish_date": "2017-04-30",
+            "original_price": "39.90",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "名著",
+                    "keys": [
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "word": "经典",
+                    "keys": [
+                        11,
+                        13
+                    ]
+                },
+                {
+                    "word": "经典",
+                    "keys": [
+                        39,
+                        41
+                    ]
+                }
+            ],
+            "image_url": "https://img3m6.ddimg.cn/14/4/25066616-1_h_129.jpg",
+            "product_url": "http://product.m.dangdang.com/25066616.html?t=1694008561",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=554",
+            "shop_name": "作家榜经典名著",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "25066616",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "29518871",
+            "trace_id": "product_trace=0000000064f884f00066865a0000000001c26c17",
+            "stock": 1,
+            "total_review_count": "632",
+            "score": 5,
+            "stars": {
+                "full_star": 5,
+                "has_half_star": false
+            },
+            "name": "作家榜名著：百万英镑（全新导读彩插珍藏版！马克·吐温经典小说集《百万英镑》！《纸牌屋》译者译自美版！）",
+            "subname": "文学大师马克·吐温21篇经典中短篇小说，让你在哈哈大笑中看清人性的本质！特别收录全新年表！读经典名著，认准作家榜！谨防山寨仿冒！",
+            "authorname": "(美)马克·吐温，作家榜经典名著 出品",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "22.50",
+            "dd_sale_price": "22.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "45.00",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.03.56.01.00.00",
+            "high_common_rate": "100.0",
+            "is_publication": "1",
+            "publisher": "浙江文艺出版社",
+            "publish_date": "2023-02-01",
+            "original_price": "45.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "名著",
+                    "keys": [
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "word": "经典",
+                    "keys": [
+                        26,
+                        28
+                    ]
+                }
+            ],
+            "image_url": "https://img3m1.ddimg.cn/41/12/29518871-1_h_1689848102.jpg",
+            "product_url": "http://product.m.dangdang.com/29518871.html?t=1694008561",
+            "pre_sale": "0",
+            "presale_start_date": "2023-02-20 22:16:39",
+            "presale_end_date": "2023-03-21 22:16:41",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=554",
+            "shop_name": "作家榜经典名著",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "29518871",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "包邮",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "id": "27919403",
+            "trace_id": "product_trace=0000000064f884f00066865a0000000001aa042b",
+            "stock": 1,
+            "total_review_count": "17043",
+            "score": 4.5,
+            "stars": {
+                "full_star": 4,
+                "has_half_star": true
+            },
+            "name": "经典名著的人生智慧（修订版）（中学生思辨读本）",
+            "subname": "“中学生思辨读本”是很有影响力的一套语文读本，自2015年际出版，在市场上颇受欢迎，一再重印，1版销售超过35万册。",
+            "authorname": "余党绪",
+            "promotype": null,
+            "promotion_filt": 0,
+            "shop_id": "0",
+            "price": "19.50",
+            "dd_sale_price": "19.50",
+            "exclusive_price": "0.00",
+            "real_dd_sale_price": "31.90",
+            "promo_sale_price": "0.00",
+            "activity_price": "0.00",
+            "readable": false,
+            "book_id": 0,
+            "is_ebook": 0,
+            "ebook_sub_type1": "0",
+            "is_has_ebook": null,
+            "ebook_product_id": null,
+            "user_behavior": 0,
+            "stock_desc": "",
+            "ebook_price": "0.00",
+            "ebook_dd_price": "0.00",
+            "cat_paths": "01.34.03.00.00.00",
+            "high_common_rate": "99.8",
+            "is_publication": "1",
+            "publisher": "上海教育出版社",
+            "publish_date": "2019-07-02",
+            "original_price": "39.00",
+            "is_overseas": "0",
+            "activity_type": -1,
+            "word_highlight_keys": [
+                {
+                    "word": "经典名著",
+                    "keys": [
+                        0,
+                        4
+                    ]
+                }
+            ],
+            "image_url": "https://img3m3.ddimg.cn/17/17/27919403-1_h_3.jpg",
+            "product_url": "http://product.m.dangdang.com/27919403.html?t=1694008561",
+            "pre_sale": "0",
+            "presale_start_date": "1970-01-01 08:00:00",
+            "presale_end_date": "1970-01-01 08:00:00",
+            "presale_rank_num": "0",
+            "add_cart_button_enabled": 1,
+            "label_type": "限时抢",
+            "label_type_id": "promotion:102",
+            "is_catalog_product": "0",
+            "shop_link_url": "ddshop://id=814",
+            "shop_name": "上海教育出版社有限公司",
+            "is_yb_product": false,
+            "discount_icon_title": "",
+            "exclusive_spare_price": "0.00",
+            "has_ebook": 0,
+            "is_wished": "0",
+            "show_dangdangsale": 1,
+            "product_id2": "27919403",
+            "product_tags": [
+                {
+                    "name": "自营",
+                    "type": 0
+                },
+                {
+                    "name": "限时抢",
+                    "type": 1
+                }
+            ]
+        }
+    ],
+    "support_shop_tmp": 0,
+    "correction_prompt": [],
+    "coupon_info": {
+        "curtime": 1694008561
+    },
+    "page": {
+        "total": "1259731",
+        "pagecount": "100",
+        "pageindex": "1",
+        "pagesize": "10",
+        "webtemplate": "PUB_TEMPLATE",
+        "showcase": "list",
+        "waterfall": 0
+    },
+    "keyword": "经典名著",
+    "keywordStr": "经典名著 共1259731个结果",
+    "hotKeywords": [],
+    "promotions": {
+        "promo_word": "查看全部大促商品",
+        "link_url": "http://touch.m.dangdang.com/topics.php?page_id=special_20230808_xspk",
+        "promo_id": "20160601",
+        "promo_word_highlight": "全部大促"
+    },
+    "shop_info": [],
+    "screening": [],
+    "shop_banner": [],
+    "none_result_enabled": 0,
+    "less_result_enabled": 0,
+    "permanent_id": null,
+    "banner": [],
+    "posters": []
+}
